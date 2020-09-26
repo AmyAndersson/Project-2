@@ -32,10 +32,6 @@ The requirements of the project are :
 
 
 
-![inspo2](images/Inspo2.png)<br>
-
-
-
 ![inspo3](images/Inspo3.PNG)<br> 
 
 
