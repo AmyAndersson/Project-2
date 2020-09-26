@@ -28,16 +28,20 @@ The requirements of the project are :
 
 ### Inspiration
 
-![inspo1](images/Inspo1.png) 
-<br>
+![inspo1](images/Inspo1.png)<br> 
 
-![inspo2](images/Inspo2.png)
 
-<br>
-![inspo3](images/Inspo3.PNG) 
 
-<br>
-![inspo4](images/Inspo4.png) 
-<br>
+![inspo2](images/Inspo2.png)<br>
+
+
+
+![inspo3](images/Inspo3.PNG)<br> 
+
+
+
+![inspo4](images/Inspo4.png)<br>
+
+
 
 ![inspo5](images/Inspo5.png) 
