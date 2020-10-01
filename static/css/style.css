@@ -1,46 +1,112 @@
-/* body {
-  padding: 0;
-  margin: 0;
+body {
+  background: #fff;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.8;
+  color: #6c757d;
 }
 
-#map,
-body,
-html {
-  height: 100%;
+/* Use header tag to move header down slightly */
+header {
+    padding-top: 20px;
 }
 
-/*Legend specific*/
-.legend {
-  padding: 6px 8px;
-  font: 14px Arial, Helvetica, sans-serif;
-  background: white;
-  background: rgba(255, 255, 255, 0.8);
-  /*box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);*/
-  /*border-radius: 5px;*/
-  line-height: 24px;
-  color: #555;
+/* Change 'The Data Divers' to uppercase */
+header .navbar-brand {
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: 400;
 }
-.legend h4 {
-  text-align: center;
+
+/* Change all items in the Navigation Bar to uppercase */
+header .navbar .nav-link {
+  padding: 1.7rem 1rem;
+  outline: none;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+}
+
+
+/* header .navbar .dropdown-menu {
   font-size: 14px;
-  margin: 2px 2px 2px;
-  color: #777;
+  border-radius: 4px;
+  border: none;
+  -webkit-box-shadow: 0 2px 30px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 30px 0px rgba(0, 0, 0, 0.2);
+  min-width: 13em;
+  margin-top: -10px;
+} */
+
+
+
+/* a {
+  color: #e74208;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
 }
 
-.legend span {
-  position: relative;
-  bottom: 3px;
-}
-
-.legend i {
-  width: 18px;
-  height: 18px;
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
   float: left;
-  margin: 0 8px 0 0;
-  opacity: 0.7;
+  min-width: 10rem;
+  padding: 0.5rem 0;
+  margin: 0.125rem 0 0;
+  font-size: 1rem;
+  color: #212529;
+  text-align: left;
+  list-style: none;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 0.25rem;
 }
 
-.legend i.icon {
-  background-size: 18px;
-  background-color: rgba(255, 255, 255, 1);
+.dropup .dropdown-toggle::after {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: 0.255em;
+  vertical-align: 0.255em;
+  content: "";
+  border-top: 0;
+  border-right: 0.3em solid transparent;
+  border-bottom: 0.3em solid;
+  border-left: 0.3em solid transparent;
+}
+
+.dropdown-divider {
+  height: 0;
+  margin: 0.5rem 0;
+  overflow: hidden;
+  border-top: 1px solid #e9ecef;
+}
+
+.dropdown-item {
+  display: block;
+  width: 100%;
+  padding: 0.25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  color: #212529;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+  color: #16181b;
+  text-decoration: none;
+  background-color: #f8f9fa;
+}
+
+.dropdown-menu.show {
+  display: block;
 } */
