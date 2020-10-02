@@ -32,9 +32,10 @@ header .navbar-brand {
 /* Change all items in the Navigation Bar to uppercase */
 header .navbar .nav-link {
   padding: 1.7rem 1rem;
-  font-size: 12px;
+  font-size: 15px;
   text-transform: uppercase;
   letter-spacing: .2em;
+  font-weight: 400;
 }
 
 /* Drop down menu */
