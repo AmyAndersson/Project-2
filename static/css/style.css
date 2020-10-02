@@ -1,3 +1,5 @@
+
+
 /* Use body tag to set font family */
 body {
   font-family: "Open Sans", Arial, sans-serif;
@@ -49,6 +51,27 @@ header .navbar .nav-link {
   display: block;
 } 
 
+/* Navbar Button */
+
+.btn {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #e74208;
+  border-color: #e74208;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #c23707;
+  border-color: #b63406;
+}
+
+/* LANDING PAGE SPECIFIC */
 /* Owl Carousel */
 /* Carousel Images and Text */
 .home-slider.home-slider .slider-item {
@@ -129,27 +152,7 @@ header .navbar .nav-link {
 }
 
 
-/* Navbar Button */
-
-.btn {
-  font-size: 13px;
-  text-transform: uppercase;
-  letter-spacing: .2em;
-}
-
-.btn-primary {
-  color: #fff;
-  background-color: #e74208;
-  border-color: #e74208;
-}
-
-.btn-primary:hover {
-  color: #fff;
-  background-color: #c23707;
-  border-color: #b63406;
-}
-
-/* Dashboard Button */
+/* Slider (Dashboard) Button */
 .btn.btn-outline-white {
   border-width: 2px;
   border-color: #fff;
@@ -163,12 +166,20 @@ header .navbar .nav-link {
 }
 
 
+/* DASHBOARD SPECIFIC */
 
+.col-12 {
+  padding-top: 150px;
+}
 
+.col-lg-12 {
+  padding-top: 20px;
+}
 
-
-
-
+.col-lg-6 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
 
 
 
