@@ -181,24 +181,24 @@ header .navbar .nav-link {
   padding-bottom: 30px;
 }
 
+/* VISUALISATION PAGE SPECIFIC */
 
+.col-12 {
+  padding-top: 150px;
+}
 
+.col-lg-12 {
+  padding-top: 20px;
+}
 
+.col-lg-6 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
 
-
-
-
-
-
-
-
-
-
-
-/* .element-animate {
-  opacity: 0;
-  visibility: hidden;
-} */
+.row {
+  padding-bottom: 18px;
+}
 
 
 
