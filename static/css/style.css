@@ -6,6 +6,22 @@ body {
   line-height: 1.8;
 }
 
+/* Header */
+header {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  width: 100%;
+  z-index: 5;
+}
+
+header .navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  background: none !important;
+  position: relative;
+}
+
 /* Change 'The Data Divers' to uppercase */
 header .navbar-brand {
   text-transform: uppercase;
@@ -26,32 +42,14 @@ header .navbar .nav-link {
   position: absolute;
   display: none;
   font-size: 1rem;
-  color: #212529;
-  text-align: left;
 }
 
 .dropdown-menu.show {
   display: block;
 } 
 
-
 /* Owl Carousel */
-.carouseltext {
-  padding: 0 15px;
-  text-align: center;
-  max-width: 1140px;
-  margin-left: auto;
-  margin-right: auto;
-  position: relative;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 1.8;
-  color: #6c757d;
-}
-
-
 /* Carousel Images and Text */
-
 .home-slider.home-slider .slider-item {
   background-size: cover;
   background-repeat: no-repeat;
@@ -62,15 +60,15 @@ header .navbar .nav-link {
 }
 
 .home-slider.home-slider .slider-item .slider-text {
-  color: #fff;
+  color: white;
   min-height: 700px;
 }
 
 .home-slider.home-slider .slider-item .slider-text h1 {
   font-size: 50px;
-  color: #fff;
+  color: white;
   line-height: 1.2;
-  font-weight: 300 !important;
+  font-weight: 300;
   text-transform: uppercase;
   margin-bottom: 30px;
 }
@@ -114,17 +112,79 @@ header .navbar .nav-link {
   margin: 5px;
   border-radius: 50%;
   border: 2px solid white;
-  outline: none !important;
+  outline: none;
   position: relative;
-  -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  background: none !important;
+  background: none;
 }
 
 .home-slider.home-slider .owl-dots .owl-dot.active {
-  border: 2px solid #fff !important;
-  background: white !important;
+  border: 2px solid white;
+  background: white;
 }
+
+
+/* Navbar Button */
+
+.btn {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #e74208;
+  border-color: #e74208;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #c23707;
+  border-color: #b63406;
+}
+
+/* Dashboard Button */
+.btn.btn-outline-white {
+  border-width: 2px;
+  border-color: #fff;
+  color: #fff;
+}
+
+.btn.btn-outline-white:hover, .btn.btn-outline-white:focus {
+  background: #fff;
+  color: #000;
+  border-width: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .element-animate {
+  opacity: 0;
+  visibility: hidden;
+} */
+
+
 
 
