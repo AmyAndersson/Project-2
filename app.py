@@ -1,29 +1,19 @@
 from flask import Flask, render_template
-from flask_pymongo import PyMongo
-
+from flask import Flask, jsonify
 
 app = Flask(__name__)
 
 #create conection
-conn = 'mongodb://localhost:27017'
-
-# Pass connection to the pymongo instance.
-client = pymongo.MongoClient(conn)
+engine = create_engine("sqlite:///")
 
 # Connect to a database. 
-datagov = client.datagovau
+db1 = client.data
 
-@app.route("/")
+@app.route("/file1")
 def index():
-    listings = mongo.db.listings.find_one()
-    return render_template("index.html", listings=listings)
-
-
-@app.route("/scrape")
-def scraper():
-    listings = mongo.db.listings
-    return redirect("/", code=302)
-
+    species = mongo.datagovau.find_one()
+    return render_template("index.html", listings=species)
+#^this will need to return json file 
 
 if __name__ == "__main__":
     app.run(debug=True)
