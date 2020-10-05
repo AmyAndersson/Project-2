@@ -1,4 +1,4 @@
-,Scientific Name,Common Name,Threatened status,ACT,NSW,NT,QLD,SA,TAS,VIC,WA,Kingdom,Class,Family,Genus,Species
+,Scientific_Name,Common_Name,Threatened_Status,ACT,NSW,NT,QLD,SA,TAS,VIC,WA,Kingdom,Class,Family,Genus,Species
 0,Neophoca cinerea,"Australian SeaNalion, Australian Sea Lion",Vulnerable,Na,Na,Na,Na,Yes,Na,Na,Yes,Animalia,Mammalia,Otariidae,Neophoca,cinerea
 1,Mirounga leonina,Southern Elephant Seal,Vulnerable,Na,Na,Na,Na,Yes,Yes,Na,Na,Animalia,Mammalia,Phocidae,Mirounga,leonina
 2,Balaenoptera borealis,Sei Whale,Vulnerable,Na,Yes,Na,Yes,Yes,Yes,Yes,Yes,Animalia,Mammalia,Balaenopteridae,Balaenoptera,borealis
