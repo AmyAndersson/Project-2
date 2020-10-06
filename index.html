@@ -8,12 +8,23 @@
 <body>
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="logic.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-md-12">
         <h1>D3Times</h1>
       </div>
     </div>
+    <select id="selDataset">
+      <option value="act">ACT</option>
+      <option value="nsw">NSW</option>
+      <option value="nt">NT</option>
+      <option value="qld">QLD</option>
+      <option value="sa">SA</option>
+      <option value="tas">TAS</option>
+      <option value="vic">VIC</option>
+      <option value="wa">WA</option>
+    </select>
     <div class="row">
       <div class="col-xs-12 col-md-9">
         <div id="scatter">
