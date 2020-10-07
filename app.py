@@ -20,6 +20,7 @@ def index():
     data1 = pd.read_sql("SELECT * FROM dataone LIMIT 10",conn)
     var = data1.to_json(orient="records")
     return jsonify(var)
+
 #^this will need to return json file 
 
 if __name__ == "__main__":
