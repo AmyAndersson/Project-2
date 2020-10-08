@@ -23,8 +23,8 @@ def index():
 
 @app.route("/html")
 def html():
-    cats = ("test.html")
-    return render_template("test.html", data = cats)
+    
+    return render_template("test.html")
 
 # @app.route("/html", methods=['GET','POST'])
 # def html():
