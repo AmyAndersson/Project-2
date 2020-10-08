@@ -1,5 +1,6 @@
-d3.json("http://127.0.0.1:5000/dataone").then((imported)=>{
-    sample= imported.scientific_name;
-    console.log(sample);
+var api_url = "localhost:5000/dataone"
 
+d3.json(api_url).then((imported)=>{
+    //sample= imported.scientific_name;
+    console.log(imported);
 });

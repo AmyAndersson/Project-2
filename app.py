@@ -15,12 +15,22 @@ conn=engine.connect()
 
 
 # what do we want this to do when the index route
-@app.route("/dataone")
+@app.route("/dataone.json")
 def index():
     data1 = pd.read_sql("SELECT * FROM dataone LIMIT 10",conn)
     var = data1.to_json(orient="records")
     return jsonify(var)
 
+@app.route("/html")
+def html():
+    cats = ("test.html")
+    return render_template("test.html", data = cats)
+
+# @app.route("/html", methods=['GET','POST'])
+# def html():
+#     if request.method == 'POST':
+#         return redirect(http://127.0.0.1:5000/("index")) 
+#     return render_template("test.html")
 #^this will need to return json file 
 
 if __name__ == "__main__":
