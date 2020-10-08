@@ -1,0 +1,530 @@
+,Scientific_Name,Common_Name,Threatened_Status,Kingdom,Class,Family,Genus,Species
+0,Neophoca cinerea,"Australian SeaNalion, Australian Sea Lion",Vulnerable,Animalia,Mammalia,Otariidae,Neophoca,cinerea
+2,Balaenoptera borealis,Sei Whale,Vulnerable,Animalia,Mammalia,Balaenopteridae,Balaenoptera,borealis
+3,Balaenoptera musculus,Blue Whale,Endangered,Animalia,Mammalia,Balaenopteridae,Balaenoptera,musculus
+4,Balaenoptera physalus,Fin Whale,Vulnerable,Animalia,Mammalia,Balaenopteridae,Balaenoptera,physalus
+5,Megaptera novaeangliae,Humpback Whale,Vulnerable,Animalia,Mammalia,Balaenopteridae,Megaptera,novaeangliae
+6,Eubalaena australis,Southern Right Whale,Endangered,Animalia,Mammalia,Balaenidae,Eubalaena,australis
+7,Xeromys myoides,"Water Mouse, False Water Rat, Yirrkoo",Vulnerable,Animalia,Mammalia,Muridae,Xeromys,myoides
+8,Zyzomys pedunculatus,"Central RockNarat, Antina",Critically Endangered,Animalia,Mammalia,Muridae,Zyzomys,pedunculatus
+9,Pseudomys shortridgei,"Heath Mouse, Dayang, Heath Rat",Endangered,Animalia,Mammalia,Muridae,Pseudomys,shortridgei
+11,Pseudomys gouldii,"Gould's Mouse, Koontin",Extinct,Animalia,Mammalia,Muridae,Pseudomys,gouldii
+15,Notomys macrotis,"LargeNaeared HoppingNamouse, Noompa, Big Naeared HoppingNamouse",Extinct,Animalia,Mammalia,Muridae,Notomys,macrotis
+17,Pseudomys australis,"Plains Rat, Palyoora, Plains Mouse",Vulnerable,Animalia,Mammalia,Muridae,Pseudomys,australis
+18,Pseudomys fieldi,"Shark Bay Mouse, Djoongari, Alice Springs Mouse",Vulnerable,Animalia,Mammalia,Muridae,Pseudomys,fieldi
+19,Notomys amplus,"ShortNatailed HoppingNamouse, Yoontoo",Extinct,Animalia,Mammalia,Muridae,Notomys,amplus
+22,Notomys longicaudatus,"LongNatailed HoppingNamouse, Koolawa, Talamba",Extinct,Animalia,Mammalia,Muridae,Notomys,longicaudatus
+24,Conilurus penicillatus,"BrushNatailed RabbitNarat, BrushNatailed TreeNarat, Pakooma",Vulnerable,Animalia,Mammalia,Muridae,Conilurus,penicillatus
+25,Leporillus apicalis,"Lesser StickNanest Rat,Tjooyalpi, WhiteNatailed StickNanest Rat",Extinct,Animalia,Mammalia,Muridae,Leporillus,apicalis
+26,Leporillus conditor,"Wopilkara, Greater StickNanest Rat",Vulnerable,Animalia,Mammalia,Muridae,Leporillus,conditor
+27,Macroderma gigas,Ghost Bat,Vulnerable,Animalia,Mammalia,Megadermatidae,Macroderma,gigas
+32,Potorous platyops,"BroadNafaced Potoroo, Moda",Extinct,Animalia,Mammalia,Potoroidae,Potorous,platyops
+39,Setonix brachyurus,Quokka,Vulnerable,Animalia,Mammalia,Macropodidae,Setonix,brachyurus
+41,Onychogalea lunata,"Crescent Nailtail Wallaby, Tjawalpa, Wurrung",Extinct,Animalia,Mammalia,Macropodidae,Onychogalea,lunata
+42,Lagorchestes asomatus,"Kuluwarri, Central HareNawallaby",Extinct,Animalia,Mammalia,Macropodidae,Lagorchestes,asomatus
+47,Perameles eremiana,"Desert Bandicoot, Walilya",Extinct,Animalia,Mammalia,Peramelidae,Perameles,eremiana
+48,Macrotis lagotis,Greater Bilby,Vulnerable,Animalia,Mammalia,Thylacomyidae,Macrotis,lagotis
+49,Macrotis leucura,"Yallara, Lesser Bilby, Djoonpi",Extinct,Animalia,Mammalia,Thylacomyidae,Macrotis,leucura
+50,Sminthopsis psammophila,Sandhill Dunnart,Endangered,Animalia,Mammalia,Dasyuridae,Sminthopsis,psammophila
+51,Myrmecobius fasciatus,Numbat,Endangered,Animalia,Mammalia,Myrmecobiidae,Myrmecobius,fasciatus
+52,Chaeropus ecaudatus,"PigNafooted Bandicoot, Kanjilpa, Wilalya",Extinct,Animalia,Mammalia,Peramelidae,Chaeropus,ecaudatus
+54,Sminthopsis butleri,Butler's Dunnart,Vulnerable,Animalia,Mammalia,Dasyuridae,Sminthopsis,butleri
+56,Parantechinus apicalis,Dibbler,Endangered,Animalia,Mammalia,Dasyuridae,Parantechinus,apicalis
+57,Phascogale calura,"RedNatailed Phascogale, RedNatailed Wambenger, Kenngoor",Vulnerable,Animalia,Mammalia,Dasyuridae,Phascogale,calura
+59,Dasyurus geoffroii,"Chuditch, Western Quoll",Vulnerable,Animalia,Mammalia,Dasyuridae,Dasyurus,geoffroii
+60,Dasyurus hallucatus,"Northern Quoll, Digul [GogoNaYimidir], Wijingadda [Dambimangari], Wiminji [Martu]",Endangered,Animalia,Mammalia,Dasyuridae,Dasyurus,hallucatus
+64,Erythrura gouldiae,Gouldian Finch,Endangered,Animalia,Aves,Estrildidae,Erythrura,gouldiae
+68,Dasyornis longirostris,Western Bristlebird,Endangered,Animalia,Aves,Pardalotidae,Dasyornis,longirostris
+74,Atrichornis clamosus,"Noisy ScrubNabird, Tjimiluk",Endangered,Animalia,Aves,Atrichornithidae,Atrichornis,clamosus
+82,Polytelis alexandrae,"Princess Parrot, Alexandra's Parrot",Vulnerable,Animalia,Aves,Psittacidae,Polytelis,alexandrae
+83,Calyptorhynchus baudinii,"Baudin's Cockatoo, LongNabilled BlackNaCockatoo",Endangered,Animalia,Aves,Cacatuidae,Calyptorhynchus,baudinii
+84,Numenius madagascariensis,"Eastern Curlew, Far Eastern Curlew",Critically Endangered,Animalia,Aves,Scolopacidae,Numenius,madagascariensis
+85,Calidris canutus,"Red Knot, Knot",Endangered,Animalia,Aves,Scolopacidae,Calidris,canutus
+86,Calidris ferruginea,Curlew Sandpiper,Critically Endangered,Animalia,Aves,Scolopacidae,Calidris,ferruginea
+87,Calidris tenuirostris,Great Knot,Critically Endangered,Animalia,Aves,Scolopacidae,Calidris,tenuirostris
+88,Charadrius leschenaultii,"Greater Sand Plover, Large Sand Plover",Vulnerable,Animalia,Aves,Charadriidae,Charadrius,leschenaultii
+89,Charadrius mongolus,"Lesser Sand Plover, Mongolian Plover",Endangered,Animalia,Aves,Charadriidae,Charadrius,mongolus
+92,Falco hypoleucos,Grey Falcon,Vulnerable,Animalia,Aves,Falconidae,Falco,hypoleucos
+93,Leipoa ocellata,Malleefowl,Vulnerable,Animalia,Aves,Megapodiidae,Leipoa,ocellata
+94,Erythrotriorchis radiatus,Red Goshawk,Vulnerable,Animalia,Aves,Accipitridae,Erythrotriorchis,radiatus
+95,Botaurus poiciloptilus,Australasian Bittern,Endangered,Animalia,Aves,Ardeidae,Botaurus,poiciloptilus
+97,Pterodroma mollis,SoftNaplumaged Petrel,Vulnerable,Animalia,Aves,Procellariidae,Pterodroma,mollis
+98,Halobaena caerulea,Blue Petrel,Vulnerable,Animalia,Aves,Procellariidae,Halobaena,caerulea
+99,Macronectes giganteus,"Southern GiantNaPetrel, Southern Giant Petrel",Endangered,Animalia,Aves,Procellariidae,Macronectes,giganteus
+100,Macronectes halli,Northern Giant Petrel,Vulnerable,Animalia,Aves,Procellariidae,Macronectes,halli
+101,Phoebetria fusca,Sooty Albatross,Vulnerable,Animalia,Aves,Diomedeidae,Phoebetria,fusca
+102,Aipysurus apraefrontalis,ShortNanosed Seasnake,Critically Endangered,Animalia,Reptilia,Hydrophiidae,Aipysurus,apraefrontalis
+103,Aipysurus foliosquama,LeafNascaled Seasnake,Critically Endangered,Animalia,Reptilia,Hydrophiidae,Aipysurus,foliosquama
+112,Ctenotus lancelini,Lancelin Island Skink,Vulnerable,Animalia,Reptilia,Scincidae,Ctenotus,lancelini
+114,Ctenophorus yinnietharra,Yinnietharra RockNaDragon,Vulnerable,Animalia,Reptilia,Agamidae,Ctenophorus,yinnietharra
+121,Pseudemydura umbrina,Western Swamp Tortoise,Critically Endangered,Animalia,Reptilia,Chelidae,Pseudemydura,umbrina
+123,Caretta caretta,Loggerhead Turtle,Endangered,Animalia,Reptilia,Cheloniidae,Caretta,caretta
+124,Chelonia mydas,Green Turtle,Vulnerable,Animalia,Reptilia,Cheloniidae,Chelonia,mydas
+125,Eretmochelys imbricata,Hawksbill Turtle,Vulnerable,Animalia,Reptilia,Cheloniidae,Eretmochelys,imbricata
+126,Lepidochelys olivacea,"Olive Ridley Turtle, Pacific Ridley Turtle",Endangered,Animalia,Reptilia,Cheloniidae,Lepidochelys,olivacea
+127,Dermochelys coriacea,"Leatherback Turtle, Leathery Turtle, Luth",Endangered,Animalia,Reptilia,Dermochelyidae,Dermochelys,coriacea
+161,Eremophila ternifolia,Wongan Eremophila,Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,ternifolia
+162,Eucalyptus coronata,Crowned Mallee,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,coronata
+164,Eremophila viscida,Varnish Bush,Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,viscida
+166,Eremophila lactea,Milky Emu Bush,Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,lactea
+167,Taraxacum cygnorum,Coast Dandelion,Vulnerable,Plantae,Magnoliopsida,Asteraceae,Taraxacum,cygnorum
+168,Eleocharis papillosa,Dwarf Desert SpikeNarush,Vulnerable,Plantae,Liliopsida,Cyperaceae,Eleocharis,papillosa
+173,Hybanthus cymulosus,Ninghan Violet,Critically Endangered,Plantae,Magnoliopsida,Violaceae,Hybanthus,cymulosus
+176,Lasiopetalum rotundifolium,RoundNaleaf Lasiopetalum,Endangered,Plantae,Magnoliopsida,Sterculiaceae,Lasiopetalum,rotundifolium
+177,Tetratheca aphylla,Bungalbin Tetratheca,Vulnerable,Plantae,Magnoliopsida,Tremandraceae,Tetratheca,aphylla
+179,Grevillea flexuosa,Zig Zag Grevillea,Vulnerable,Plantae,Magnoliopsida,Proteaceae,Grevillea,flexuosa
+180,Reedia spathacea,Reedia,Critically Endangered,Plantae,Liliopsida,Cyperaceae,Reedia,spathacea
+181,Eucalyptus insularis,Twin Peak Island Mallee,Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,insularis
+190,Anigozanthos viridis subsp. terraspectans,Dwarf Green Kangaroo Paw,Vulnerable,Plantae,Liliopsida,Haemodoraceae,Anigozanthos,viridis
+191,Daviesia euphorbioides,Wongan Cactus,Endangered,Plantae,Magnoliopsida,Fabaceae,Daviesia,euphorbioides
+192,Microcorys eremophiloides,Wongan Microcorys,Vulnerable,Plantae,Magnoliopsida,Lamiaceae,Microcorys,eremophiloides
+195,Conostylis dielsii subsp. teres,Irwin's Conostylis,Endangered,Plantae,Liliopsida,Haemodoraceae,Conostylis,dielsii
+198,Eucalyptus synandra,Jingymia Mallee,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,synandra
+200,Eucalyptus ceracea,Seppelt Range Gum,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,ceracea
+211,Diuris drummondii,Tall Donkey Orchid,Vulnerable,Plantae,Liliopsida,Orchidaceae,Diuris,drummondii
+213,Eucalyptus crucis subsp. crucis,Silver Mallee,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,crucis
+217,Adenanthos ellipticus,OvalNaleaf Adenanthos,Vulnerable,Plantae,Magnoliopsida,Proteaceae,Adenanthos,ellipticus
+218,Grevillea involucrata,Lake Varley Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,involucrata
+220,Stylidium galioides,Yellow Mountain Triggerplant,Vulnerable,Plantae,Magnoliopsida,Stylidiaceae,Stylidium,galioides
+221,Thomasia gardneri,Mt Holland Thomasia,Extinct,Plantae,Magnoliopsida,Sterculiaceae,Thomasia,gardneri
+223,Lambertia fairallii,Fairall's Honeysuckle,Endangered,Plantae,Magnoliopsida,Proteaceae,Lambertia,fairallii
+224,Thelymitra psammophila,Sandplain SunNaorchid,Vulnerable,Plantae,Liliopsida,Orchidaceae,Thelymitra,psammophila
+226,Pityrodia augustensis,Mt Augustus Foxglove,Vulnerable,Plantae,Magnoliopsida,Verbenaceae,Pityrodia,augustensis
+229,Leptomeria dielsiana,Diels' Currant Bush,Vulnerable,Plantae,Magnoliopsida,Santalaceae,Leptomeria,dielsiana
+234,Eucalyptus suberea,"Cork Mallee, Mount Lesueur Mallee",Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,suberea
+235,Boronia clavata,Bremer Boronia,Endangered,Plantae,Magnoliopsida,Rutaceae,Boronia,clavata
+239,Acacia depressa,Echidna Wattle,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Acacia,depressa
+241,Grevillea infundibularis,FanNaleaf Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,infundibularis
+242,Conostylis setigera subsp. dasys,Boscabel Conostylis,Critically Endangered,Plantae,Liliopsida,Haemodoraceae,Conostylis,setigera
+244,Tetratheca deltoidea,Granite Tetratheca,Endangered,Plantae,Magnoliopsida,Tremandraceae,Tetratheca,deltoidea
+248,Caladenia wanosa,Kalbarri SpiderNaorchid,Vulnerable,Plantae,Liliopsida,Orchidaceae,Caladenia,wanosa
+249,Conostylis drummondii,Drummond's Conostylis,Endangered,Plantae,Liliopsida,Haemodoraceae,Conostylis,drummondii
+250,Frankenia conferta,Silky Frankenia,Endangered,Plantae,Magnoliopsida,Frankeniaceae,Frankenia,conferta
+251,Acacia vassalii,Vassal's Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,vassalii
+253,Tetratheca harperi,Jackson Tetratheca,Vulnerable,Plantae,Magnoliopsida,Tremandraceae,Tetratheca,harperi
+254,Eucalyptus lateritica,Laterite Mallee,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,lateritica
+258,Pityrodia scabra,Wyalkatchem Foxglove,Endangered,Plantae,Magnoliopsida,Lamiaceae,Pityrodia,scabra
+261,Acacia volubilis,"Tangled Wattle, Tangle Wattle",Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,volubilis
+267,Caladenia dorrienii,Cossack SpiderNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,dorrienii
+272,Microtis globula,SouthNaCoast Mignonette Orchid,Vulnerable,Plantae,Liliopsida,Orchidaceae,Microtis,globula
+274,Eremophila verticillata,Whorled Eremophila,Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,verticillata
+275,Thelymitra stellata,Star SunNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Thelymitra,stellata
+283,Caladenia huegelii,"King SpiderNaorchid, Grand SpiderNaorchid, Rusty SpiderNaorchid",Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,huegelii
+285,Gastrolobium appressum,ScaleNaleaf Poison,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Gastrolobium,appressum
+287,Gastrolobium glaucum,"Spike Poison, Wongan Poison",Endangered,Plantae,Magnoliopsida,Fabaceae,Gastrolobium,glaucum
+289,Eucalyptus brevipes,Mukinbudin Mallee,Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,brevipes
+295,Calectasia cyanea,Blue Tinsel Lily,Critically Endangered,Plantae,Liliopsida,Dasypogonaceae,Calectasia,cyanea
+297,Adenanthos eyrei,Toolinna Adenanthos,Endangered,Plantae,Magnoliopsida,Proteaceae,Adenanthos,eyrei
+301,Hemiandra gardneri,Red Snakebush,Endangered,Plantae,Magnoliopsida,Lamiaceae,Hemiandra,gardneri
+306,Hypocalymma longifolium,LongNaleaved Myrtle,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Hypocalymma,longifolium
+307,Acacia anomala,"Grass Wattle, Chittering Grass Wattle",Vulnerable,Plantae,Magnoliopsida,Fabaceae,Acacia,anomala
+308,Verticordia helichrysantha,Coast Featherflower,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Verticordia,helichrysantha
+309,Asterolasia nivea,Bindoon Starbush,Vulnerable,Plantae,Magnoliopsida,Rutaceae,Asterolasia,nivea
+310,Banksia brownii,"Brown's Banksia, FeatherNaleaved Banksia",Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,brownii
+312,Banksia verticillata,"Granite Banksia, Albany Banksia, River Banksia",Vulnerable,Plantae,Magnoliopsida,Proteaceae,Banksia,verticillata
+315,Gyrostemon reticulatus,NetNaveined Gyrostemon,Critically Endangered,Plantae,Magnoliopsida,Gyrostemonaceae,Gyrostemon,reticulatus
+316,Frankenia decurrens,DecurrentNaleaved Frankenia,Extinct,Plantae,Magnoliopsida,Frankeniaceae,Frankenia,decurrens
+323,Darwinia apiculata,Scarp Darwinia,Endangered,Plantae,Magnoliopsida,Proteaceae,Darwinia,apiculata
+324,Pandanus spiralis var. flammeus,Edgar Range Pandanus,Endangered,Plantae,Liliopsida,Pandanaceae,Pandanus,spiralis
+329,Darwinia acerosa,FineNaleaved Darwinia,Endangered,Plantae,Magnoliopsida,Myrtaceae,Darwinia,acerosa
+330,Boronia revoluta,Ironcap Boronia,Endangered,Plantae,Magnoliopsida,Rutaceae,Boronia,revoluta
+332,Drummondita ericoides,Morseby Range Drummondita,Endangered,Plantae,Magnoliopsida,Rutaceae,Drummondita,ericoides
+333,Gastrolobium hamulosum,HookNapoint Poison,Endangered,Plantae,Magnoliopsida,Fabaceae,Gastrolobium,hamulosum
+337,Conostylis lepidospermoides,Sedge Conostylis,Endangered,Plantae,Liliopsida,Haemodoraceae,Conostylis,lepidospermoides
+341,Eucalyptus rhodantha,Rose Mallee,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,rhodantha
+349,Darwinia carnea,"Mogumber Bell, Narrogin Bell",Endangered,Plantae,Magnoliopsida,Myrtaceae,Darwinia,carnea
+350,Banksia cuneata,"Matchstick Banksia, Quairading Banksia",Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,cuneata
+356,Coleanthera virgata,Hidden Coleanthera,Extinct,Plantae,Magnoliopsida,Epacridaceae,Coleanthera,virgata
+358,Tetraria australiensis,Southern Tetraria,Vulnerable,Plantae,Liliopsida,Cyperaceae,Tetraria,australiensis
+366,Hensmania chapmanii,Chapman's Hensmania,Vulnerable,Plantae,Liliopsida,Liliaceae,Hensmania,chapmanii
+367,Hakea megalosperma,Lesueur Hakea,Vulnerable,Plantae,Magnoliopsida,Proteaceae,Hakea,megalosperma
+368,Banksia sphaerocarpa var. dolichostyla,"Ironcaps Banksia, Ironcap Banksia",Vulnerable,Plantae,Magnoliopsida,Proteaceae,Banksia,sphaerocarpa
+374,Adenanthos pungens subsp. effusus,Sprawling Spiky Adenanthos,Endangered,Plantae,Magnoliopsida,Proteaceae,Adenanthos,pungens
+382,Conostylis wonganensis,Wongan Conostylis,Endangered,Plantae,Liliopsida,Haemodoraceae,Conostylis,wonganensis
+384,Lepidium aschersonii,Spiny PepperNacress,Vulnerable,Plantae,Magnoliopsida,Brassicaceae,Lepidium,aschersonii
+386,Anthocercis gracilis,Slender Tailflower,Vulnerable,Plantae,Magnoliopsida,Solanaceae,Anthocercis,gracilis
+387,Rhagodia acicularis,Wongan Rhagodia,Vulnerable,Plantae,Magnoliopsida,Chenopodiaceae,Rhagodia,acicularis
+389,Hakea aculeata,Column Hakea,Vulnerable,Plantae,Magnoliopsida,Proteaceae,Hakea,aculeata
+390,Ptychosema pusillum,Dwarf Pea,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Ptychosema,pusillum
+395,Verticordia hughanii,Hughan's Featherflower,Endangered,Plantae,Magnoliopsida,Myrtaceae,Verticordia,hughanii
+398,Eremophila resinosa,Resinous Eremophila,Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,resinosa
+401,Scaevola macrophylla,LargeNaflowered Scaevola,Critically Endangered,Plantae,Magnoliopsida,Goodeniaceae,Scaevola,macrophylla
+411,Thomasia montana,Hill Thomasia,Vulnerable,Plantae,Magnoliopsida,Sterculiaceae,Thomasia,montana
+413,Grevillea scapigera,Corrigin Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,scapigera
+418,Leucopogon marginatus,ThickNamargined Leucopogon,Endangered,Plantae,Magnoliopsida,Epacridaceae,Leucopogon,marginatus
+425,Wurmbea tubulosa,LongNaflowered Nancy,Endangered,Plantae,Liliopsida,Liliaceae,Wurmbea,tubulosa
+428,Symonanthus bancroftii,Bancrofts Symonanthus,Endangered,Plantae,Magnoliopsida,Solanaceae,Symonanthus,bancroftii
+430,Diuris purdiei,Purdie's DonkeyNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Diuris,purdiei
+432,Eucalyptus merrickiae,Goblet Mallee,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,merrickiae
+436,Darwinia oxylepis,Gillam's Bell,Endangered,Plantae,Magnoliopsida,Myrtaceae,Darwinia,oxylepis
+442,Eucalyptus burdettiana,Burdett Gum,Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,burdettiana
+443,Acacia aphylla,Leafless Rock Wattle,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Acacia,aphylla
+448,Minuria tridens,Minnie Daisy,Vulnerable,Plantae,Magnoliopsida,Asteraceae,Minuria,tridens
+453,Conostylis seorsiflora subsp. trichophylla,Hairy Mat Conostylis,Endangered,Plantae,Liliopsida,Haemodoraceae,Conostylis,seorsiflora
+454,Cyphanthera odgersii subsp. occidentalis,"Western Woolly Cyphanthera, Western Cyphanthera",Endangered,Plantae,Magnoliopsida,Solanaceae,Cyphanthera,odgersii
+456,Glyceria drummondii,Nangetty Grass,Endangered,Plantae,Liliopsida,Poaceae,Glyceria,drummondii
+457,Pultenaea pauciflora,Narrogin Pea,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Pultenaea,pauciflora
+460,Lepidosperma rostratum,Beaked Lepidosperma,Endangered,Plantae,Liliopsida,Cyperaceae,Lepidosperma,rostratum
+466,Conostylis rogeri,"Kulin Conostylis, SingleNaflowered Conostylis",Vulnerable,Plantae,Liliopsida,Haemodoraceae,Conostylis,rogeri
+469,Eremophila nivea,Silky Eremophila,Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,nivea
+470,Andersonia gracilis,Slender Andersonia,Endangered,Plantae,Magnoliopsida,Epacridaceae,Andersonia,gracilis
+471,Eucalyptus johnsoniana,Johnson's Mallee,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,johnsoniana
+472,Leucopogon cryptanthus,SmallNaflowered Leucopogon,Extinct,Plantae,Magnoliopsida,Epacridaceae,Leucopogon,cryptanthus
+477,Gastrolobium graniticum,Granite Poison,Endangered,Plantae,Magnoliopsida,Fabaceae,Gastrolobium,graniticum
+484,Hibbertia crispula,Ooldea GuineaNaflower,Vulnerable,Plantae,Magnoliopsida,Dilleniaceae,Hibbertia,crispula
+487,Haloragis platycarpa,BroadNafruited Haloragis,Critically Endangered,Plantae,Magnoliopsida,Haloragaceae,Haloragis,platycarpa
+488,Eucalyptus steedmanii,Steedmans Gum,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,steedmanii
+493,Tetratheca fasciculata,Cronin's Tetratheca,Extinct,Plantae,Magnoliopsida,Tremandraceae,Tetratheca,fasciculata
+495,Darwinia wittwerorum,Wittwer's Mountain Bell,Endangered,Plantae,Magnoliopsida,Myrtaceae,Darwinia,wittwerorum
+496,Spirogardnera rubescens,Spiral Bush,Endangered,Plantae,Magnoliopsida,Santalaceae,Spirogardnera,rubescens
+497,Darwinia squarrosa,"Fringed Mountain Bell, Pink Mountain Bell",Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Darwinia,squarrosa
+498,Lambertia orbifolia,Roundleaf Honeysuckle,Endangered,Plantae,Magnoliopsida,Proteaceae,Lambertia,orbifolia
+509,Tribonanthes purpurea,Granite Pink,Vulnerable,Plantae,Liliopsida,Haemodoraceae,Tribonanthes,purpurea
+513,Opercularia acolytantha,Esperance Dog Weed,Extinct,Plantae,Magnoliopsida,Rubiaceae,Opercularia,acolytantha
+514,Kennedia glabrata,Northcliffe Kennedia,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Kennedia,glabrata
+519,Thryptomene wittweri,Mountain Thryptomene,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Thryptomene,wittweri
+521,Banksia goodii,Good's Banksia,Vulnerable,Plantae,Magnoliopsida,Proteaceae,Banksia,goodii
+522,Eremophila scaberula,Rough Emu Bush,Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,scaberula
+523,Drakaea elastica,"GlossyNaleafed Hammer Orchid, GlossyNaleaved Hammer Orchid,  Warty Hammer Orchid",Endangered,Plantae,Liliopsida,Orchidaceae,Drakaea,elastica
+524,Lechenaultia chlorantha,Kalbarri Leschenaultia,Vulnerable,Plantae,Magnoliopsida,Goodeniaceae,Lechenaultia,chlorantha
+528,Andersonia axilliflora,Giant Andersonia,Endangered,Plantae,Magnoliopsida,Epacridaceae,Andersonia,axilliflora
+529,Boronia adamsiana,Barbalin Boronia,Vulnerable,Plantae,Magnoliopsida,Rutaceae,Boronia,adamsiana
+531,Chorizema varium,Limestone Pea,Endangered,Plantae,Magnoliopsida,Fabaceae,Chorizema,varium
+536,Acacia forrestiana,Forest's Wattle,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Acacia,forrestiana
+538,Darwinia collina,Yellow Mountain Bell,Endangered,Plantae,Magnoliopsida,Myrtaceae,Darwinia,collina
+539,Daviesia obovata,PaddleNaleaf Daviesia,Endangered,Plantae,Magnoliopsida,Fabaceae,Daviesia,obovata
+542,Allocasuarina fibrosa,Woolly Sheoak,Vulnerable,Plantae,Magnoliopsida,Casuarinaceae,Allocasuarina,fibrosa
+548,Conostylis micrantha,SmallNaflowered Conostylis,Endangered,Plantae,Liliopsida,Haemodoraceae,Conostylis,micrantha
+549,Eucalyptus mooreana,"Mountain White Gum,  King Leopold Range Mallee, Moore's Gum",Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,mooreana
+552,Acacia sciophanes,"Wundowlin Wattle, Ghost Wattle",Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,sciophanes
+554,Hemiandra rutilans,"Sargents Snakebush, Colourful Snakebush",Endangered,Plantae,Magnoliopsida,Lamiaceae,Hemiandra,rutilans
+559,Ptilotus pyramidatus,Pyramid MullaNamulla,Critically Endangered,Plantae,Magnoliopsida,Amaranthaceae,Ptilotus,pyramidatus
+562,Beyeria lepidopetala,"SmallNapetalled Beyeria, ShortNapetalled Beyeria",Endangered,Plantae,Magnoliopsida,Euphorbiaceae,Beyeria,lepidopetala
+563,Lechenaultia laricina,Scarlet Leschenaultia,Endangered,Plantae,Magnoliopsida,Goodeniaceae,Lechenaultia,laricina
+564,Darwinia masonii,Mason's Darwinia,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Darwinia,masonii
+566,Hemigenia ramosissima,Branched Hemigenia,Critically Endangered,Plantae,Magnoliopsida,Lamiaceae,Hemigenia,ramosissima
+573,Eucalyptus beardiana,Beard's Mallee,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,beardiana
+581,Adenanthos pungens subsp. pungens,Spiky Adenanthos,Vulnerable,Plantae,Magnoliopsida,Proteaceae,Adenanthos,pungens
+585,Leucopogon obtectus,Hidden BeardNaheath,Endangered,Plantae,Magnoliopsida,Epacridaceae,Leucopogon,obtectus
+586,Daviesia dielsii,Diels' Daviesia,Endangered,Plantae,Magnoliopsida,Fabaceae,Daviesia,dielsii
+592,Ricinocarpos trichophorus,Barrens Wedding Bush,Endangered,Plantae,Magnoliopsida,Euphorbiaceae,Ricinocarpos,trichophorus
+593,Acacia prismifolia,Diels' Wattle,Extinct,Plantae,Magnoliopsida,Fabaceae,Acacia,prismifolia
+595,Rhizanthella gardneri,"Western Underground Orchid, Underground Orchid ",Critically Endangered,Plantae,Liliopsida,Orchidaceae,Rhizanthella,gardneri
+598,Acacia pharangites,Wongan Gully Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,pharangites
+604,Acacia denticulosa,Sandpaper Wattle,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Acacia,denticulosa
+605,Deyeuxia drummondii,"Drummond's Grass, Drummond Grass",Endangered,Plantae,Liliopsida,Poaceae,Deyeuxia,drummondii
+606,Banksia oligantha,Wagin Banksia,Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,oligantha
+607,Lepidium drummondii,Drummond's Lepidium,Extinct,Plantae,Magnoliopsida,Brassicaceae,Lepidium,drummondii
+612,Isopogon uncinatus,"Albany Cone Bush, HookNaleaf Isopogon",Endangered,Plantae,Magnoliopsida,Proteaceae,Isopogon,uncinatus
+613,Frankenia parvula,ShortNaleaved Frankenia,Endangered,Plantae,Magnoliopsida,Frankeniaceae,Frankenia,parvula
+618,Sphenotoma drummondii,Mountain PaperNaheath,Endangered,Plantae,Magnoliopsida,Epacridaceae,Sphenotoma,drummondii
+619,Roycea pycnophylloides,Saltmat,Endangered,Plantae,Magnoliopsida,Chenopodiaceae,Roycea,pycnophylloides
+621,Daviesia ovata,BroadNaleaf Daviesia,Critically Endangered,Plantae,Magnoliopsida,Fabaceae,Daviesia,ovata
+622,Coopernookia georgei,Mauve Coopernookia,Endangered,Plantae,Magnoliopsida,Goodeniaceae,Coopernookia,georgei
+623,Anigozanthos bicolor subsp. minor,"Little Kangaroo Paw, TwoNacoloured Kangaroo Paw, Small TwoNacolour Kangaroo Paw",Endangered,Plantae,Liliopsida,Haemodoraceae,Anigozanthos,bicolor
+625,Adenanthos dobagii,Fitzgerald Woollybush,Endangered,Plantae,Magnoliopsida,Proteaceae,Adenanthos,dobagii
+628,Conostylis misera,Grass Conostylis,Endangered,Plantae,Liliopsida,Haemodoraceae,Conostylis,misera
+631,Eremophila virens,"Campion Eremophila, GreenNaflowered Emu bush",Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,virens
+637,Darwinia meeboldii,Cranbrook Bell,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Darwinia,meeboldii
+641,Adenanthos velutinus,Velvet Woollybush,Endangered,Plantae,Magnoliopsida,Proteaceae,Adenanthos,velutinus
+643,Leucopogon gnaphalioides,Stirling Range Beard Heath,Endangered,Plantae,Magnoliopsida,Epacridaceae,Leucopogon,gnaphalioides
+646,Grevillea batrachioides,Mt Lesueur Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,batrachioides
+647,Grevillea maxwellii,Maxwell's Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,maxwellii
+675,Allocasuarina tortiramula,Twisted Sheoak,Vulnerable,Plantae,Magnoliopsida,Casuarinaceae,Allocasuarina,tortiramula
+676,Gastrolobium lehmannii,Cranbrook Pea,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Gastrolobium,lehmannii
+681,Verticordia plumosa var. ananeotes,Tufted Plumed Featherflower,Endangered,Plantae,Magnoliopsida,Myrtaceae,Verticordia,plumosa
+682,Acacia cochlocarpa subsp. cochlocarpa,SpiralNafruited Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,cochlocarpa
+683,Calytrix breviseta subsp. breviseta,Swamp Starflower,Endangered,Plantae,Magnoliopsida,Myrtaceae,Calytrix,breviseta
+690,Myoporum cordifolium,Jerramungup Myoporum,Vulnerable,Plantae,Magnoliopsida,Myoporaceae,Myoporum,cordifolium
+691,Eucalyptus absita,Badgingarra Box,Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,absita
+692,Eucalyptus argutifolia,"Yanchep Mallee, Wabling Hill Mallee",Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,argutifolia
+693,Eucalyptus crispata,Yandanooka Mallee,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,crispata
+694,Melaleuca sciotostyla,Wongan Melaleuca,Endangered,Plantae,Magnoliopsida,Myrtaceae,Melaleuca,sciotostyla
+695,Verticordia carinata,Stirling Range Featherflower,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Verticordia,carinata
+696,Caladenia busselliana,Bussell's SpiderNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,busselliana
+707,Conospermum undulatum,WavyNaleaved Smokebush,Vulnerable,Plantae,Magnoliopsida,Proteaceae,Conospermum,undulatum
+711,Verticordia fimbrilepis subsp. australis,Southern Shy Featherflower,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Verticordia,fimbrilepis
+712,Verticordia fimbrilepis subsp. fimbrilepis,Shy Featherflower,Endangered,Plantae,Magnoliopsida,Myrtaceae,Verticordia,fimbrilepis
+716,Ctenotus zastictus,Hamelin Ctenotus,Vulnerable,Animalia,Reptilia,Scincidae,Ctenotus,zastictus
+727,Pseudocheirus occidentalis,"Western Ringtail Possum, Ngwayir, Womp, Woder, Ngoor, Ngoolangit",Critically Endangered,Animalia,Mammalia,Petauridae,Pseudocheirus,occidentalis
+732,Dasyornis broadbenti litoralis,"Rufous Bristlebird (western), SouthNawestern Rufous Bristlebird",Extinct,Animalia,Aves,Pardalotidae,Dasyornis,broadbenti
+734,Cereopsis novaehollandiae grisea,"Cape Barren Goose (southNawestern), Recherche Cape Barren Goose",Vulnerable,Animalia,Aves,Anatidae,Cereopsis,novaehollandiae
+741,Anous tenuirostris melanops,Australian Lesser Noddy,Vulnerable,Animalia,Aves,Laridae,Anous,tenuirostris
+742,Malurus leucopterus leucopterus,"WhiteNawinged FairyNawren (Dirk Hartog Island), Dirk Hartog BlackNaandNaWhite FairyNawren",Vulnerable,Animalia,Aves,Maluridae,Malurus,leucopterus
+746,Falcunculus frontatus whitei,"Crested ShrikeNatit (northern), Northern ShrikeNatit",Vulnerable,Animalia,Aves,Pachycephalidae,Falcunculus,frontatus
+754,Tyto novaehollandiae kimberli,Masked Owl (northern),Vulnerable,Animalia,Aves,Tytonidae,Tyto,novaehollandiae
+761,Geocrinia vitellina,OrangeNabellied Frog,Vulnerable,Animalia,Amphibia,Myobatrachidae,Geocrinia,vitellina
+768,Geocrinia alba,"WhiteNabellied Frog, Creek Frog",Critically Endangered,Animalia,Amphibia,Myobatrachidae,Geocrinia,alba
+773,Malurus leucopterus edouardi,"WhiteNawinged FairyNawren (Barrow Island), Barrow Island BlackNaandNawhite FairyNawren",Vulnerable,Animalia,Aves,Maluridae,Malurus,leucopterus
+780,Boronia capitata subsp. capitata,a shrub,Endangered,Plantae,Magnoliopsida,Rutaceae,Boronia,capitata
+785,Chorizema humile,Prostrate Flame Pea,Endangered,Plantae,Magnoliopsida,Fabaceae,Chorizema,humile
+786,Grevillea thelemanniana,Spider Net Grevillea,Critically Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,thelemanniana
+792,Dasymalla axillaris,Native Foxglove,Critically Endangered,Plantae,Magnoliopsida,Lamiaceae,Dasymalla,axillaris
+801,Trithuria occidentalis,Swan Hydatella,Endangered,Plantae,Liliopsida,Hydatellaceae,Trithuria,occidentalis
+803,Kennedia lateritia,Augusta Kennedia,Endangered,Plantae,Magnoliopsida,Fabaceae,Kennedia,lateritia
+822,Diuris micrantha,Dwarf BeeNaorchid,Vulnerable,Plantae,Liliopsida,Orchidaceae,Diuris,micrantha
+841,Acacia awestoniana,Stirling Range Wattle,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Acacia,awestoniana
+842,Acacia lobulata,Chiddarcooping Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,lobulata
+843,Acacia lanuginophylla,Woolly Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,lanuginophylla
+844,Acacia unguicula,a shrub,Critically Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,unguicula
+845,Acacia brachypoda,Western Wheatbelt Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,brachypoda
+847,Verticordia albida,White Featherflower,Endangered,Plantae,Magnoliopsida,Myrtaceae,Verticordia,albida
+848,Verticordia densiflora var. pedunculata,LongNastalked Featherflower,Endangered,Plantae,Magnoliopsida,Myrtaceae,Verticordia,densiflora
+851,Verticordia pityrhops,"Little Pine Verticordia, PineNalike Featherflower",Endangered,Plantae,Magnoliopsida,Myrtaceae,Verticordia,pityrhops
+852,Verticordia plumosa var. vassensis,Vasse Featherflower,Endangered,Plantae,Magnoliopsida,Myrtaceae,Verticordia,plumosa
+853,Verticordia spicata subsp. squamosa,ScalyNaleaved Featherflower,Endangered,Plantae,Magnoliopsida,Myrtaceae,Verticordia,spicata
+854,Verticordia staminosa var. cylindracea,Granite Featherflower,Endangered,Plantae,Magnoliopsida,Myrtaceae,Verticordia,staminosa
+855,Verticordia staminosa subsp. staminosa,Wongan Featherflower,Endangered,Plantae,Magnoliopsida,Myrtaceae,Verticordia,staminosa
+858,Myriophyllum lapidicola,Chiddarcooping Myriophyllum,Endangered,Plantae,Magnoliopsida,Haloragaceae,Myriophyllum,lapidicola
+859,Goodenia integerrima,Gypsum Goodenia,Vulnerable,Plantae,Magnoliopsida,Goodeniaceae,Goodenia,integerrima
+875,Grevillea calliantha,"Foote's Grevillea, Cataby Grevillea, Black Magic Grevillea",Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,calliantha
+879,Eucalyptus pruiniramis,"Midlands Gum, Jingymia Gum",Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,pruiniramis
+880,Eucalyptus recta,Silver Mallet,Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,recta
+886,Thomasia glabripetala,Sandplain Thomasia,Vulnerable,Plantae,Magnoliopsida,Sterculiaceae,Thomasia,glabripetala
+889,Daviesia bursarioides,Three Springs Daviesia,Endangered,Plantae,Magnoliopsida,Fabaceae,Daviesia,bursarioides
+890,Daviesia speciosa,Beautiful Daviesia,Endangered,Plantae,Magnoliopsida,Fabaceae,Daviesia,speciosa
+891,Acacia leptalea,Chinocup Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,leptalea
+892,Eremophila subteretifolia,Lake King Eremophila,Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,subteretifolia
+893,Darwinia ferricola,Scott River Darwinia,Endangered,Plantae,Magnoliopsida,Myrtaceae,Darwinia,ferricola
+894,Eucalyptus dolorosa,"Dandaragan Mallee, Mount Misery Mallee",Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,dolorosa
+895,Eucalyptus impensa,Eneabba Mallee,Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,impensa
+896,Eucalyptus leprophloia,"Scaly Butt Mallee, ScalyNabutt Mallee",Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,leprophloia
+897,Caladenia christineae,Christine's Spider Orchid,Vulnerable,Plantae,Liliopsida,Orchidaceae,Caladenia,christineae
+898,Caladenia excelsa,Giant SpiderNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,excelsa
+899,Caladenia hoffmanii,Hoffman's SpiderNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,hoffmanii
+900,Lambertia echinata subsp. echinata,Prickly Honeysuckle,Endangered,Plantae,Magnoliopsida,Proteaceae,Lambertia,echinata
+907,Daviesia pseudaphylla,Stirling Range Daviesia,Endangered,Plantae,Magnoliopsida,Fabaceae,Daviesia,pseudaphylla
+909,Drakaea micrantha,Dwarf HammerNaorchid,Vulnerable,Plantae,Liliopsida,Orchidaceae,Drakaea,micrantha
+911,Daviesia microcarpa,Norseman Pea,Endangered,Plantae,Magnoliopsida,Fabaceae,Daviesia,microcarpa
+912,Acacia pygmaea,Dwarf Rock Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,pygmaea
+913,Eucalyptus articulata,Ponton Creek Mallee,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,articulata
+914,Eucalyptus cuprea,Mallee Box,Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,cuprea
+915,Caladenia elegans,Elegant SpiderNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,elegans
+916,Caladenia viridescens,Dunsborough SpiderNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,viridescens
+917,Drakaea concolor,Kneeling HammerNaorchid,Vulnerable,Plantae,Liliopsida,Orchidaceae,Drakaea,concolor
+918,Drakaea confluens,Late HammerNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Drakaea,confluens
+921,Daviesia megacalyx,LongNasepalled Daviesia,Endangered,Plantae,Magnoliopsida,Fabaceae,Daviesia,megacalyx
+922,Caladenia harringtoniae,"Harrington's SpiderNaorchid, Pink SpiderNaorchid",Vulnerable,Plantae,Liliopsida,Orchidaceae,Caladenia,harringtoniae
+930,Natator depressus,Flatback Turtle,Vulnerable,Animalia,Reptilia,Cheloniidae,Natator,depressus
+935,Pezoporus occidentalis,Night Parrot,Endangered,Animalia,Aves,Psittacidae,Pezoporus,occidentalis
+938,Calyptorhynchus latirostris,"Carnaby's Cockatoo,  ShortNabilled BlackNaCockatoo",Endangered,Animalia,Aves,Cacatuidae,Calyptorhynchus,latirostris
+943,Pristis pristis,"Freshwater Sawfish, Largetooth Sawfish, River Sawfish, Leichhardt's Sawfish, Northern Sawfish",Vulnerable,Animalia,Chondrichthyes,Pristidae,Pristis,pristis
+945,Grevillea humifusa,Spreading Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,humifusa
+947,Schoenia filifolia subsp. subulifolia,Mingenew Everlasting,Endangered,Plantae,Magnoliopsida,Asteraceae,Schoenia,filifolia
+957,Diomedea amsterdamensis,Amsterdam Albatross,Endangered,Animalia,Aves,Diomedeidae,Diomedea,amsterdamensis
+966,Geophaps smithii smithii,Partridge Pigeon (eastern),Vulnerable,Animalia,Aves,Columbidae,Geophaps,smithii
+967,Malurus coronatus coronatus,PurpleNacrowned FairyNawren (western),Endangered,Animalia,Aves,Maluridae,Malurus,coronatus
+972,Psophodes nigrogularis nigrogularis,Western Heath Whipbird ,Endangered,Animalia,Aves,Psophodidae,Psophodes,nigrogularis
+977,Diomedea sanfordi,Northern Royal Albatross,Endangered,Animalia,Aves,Diomedeidae,Diomedea,sanfordi
+979,Diomedea antipodensis,Antipodean Albatross,Vulnerable,Animalia,Aves,Diomedeidae,Diomedea,antipodensis
+980,Thalassarche impavida,"Campbell Albatross, Campbell BlackNabrowed Albatross",Vulnerable,Animalia,Aves,Diomedeidae,Thalassarche,impavida
+982,Thalassarche steadi,WhiteNacapped Albatross,Vulnerable,Animalia,Aves,Diomedeidae,Thalassarche,steadi
+984,Thalassarche carteri,Indian YellowNanosed  Albatross,Vulnerable,Animalia,Aves,Diomedeidae,Thalassarche,carteri
+986,Carcharodon carcharias,"White Shark, Great White Shark",Vulnerable,Animalia,Chondrichthyes,Lamnidae,Carcharodon,carcharias
+990,Egernia stokesii badia,"Western SpinyNatailed Skink, Baudin Island SpinyNatailed Skink",Endangered,Animalia,Reptilia,Scincidae,Egernia,stokesii
+992,Acacia insolita subsp. recurva,Yornaning Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,insolita
+996,Caladenia bryceana subsp. bryceana,Dwarf SpiderNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,bryceana
+997,Caladenia winfieldii,Majestic SpiderNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,winfieldii
+999,Grevillea christineae,Christine's Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,christineae
+1000,Grevillea maccutcheonii,McCutcheon's Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,maccutcheonii
+1001,Grevillea pythara,Pythara Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,pythara
+1002,Lambertia echinata subsp. occidentalis,Western Prickly Honeysuckle,Endangered,Plantae,Magnoliopsida,Proteaceae,Lambertia,echinata
+1004,Petrophile latericola,Laterite Petrophile,Endangered,Plantae,Magnoliopsida,Proteaceae,Petrophile,latericola
+1010,Thomasia sp. Green Hill (S.Paust 1322),Green Hill Thomasia,Endangered,Plantae,Magnoliopsida,Sterculiaceae,Thomasia,sp. Green Hill (S.Paust 1322)
+1014,Caladenia bryceana subsp. cracens,Northern Dwarf SpiderNaorchid,Vulnerable,Plantae,Liliopsida,Orchidaceae,Caladenia,bryceana
+1016,Eremophila denticulata subsp. denticulata,Fitzgerald Eremophila,Vulnerable,Plantae,Magnoliopsida,Myoporaceae,Eremophila,denticulata
+1017,Eremophila denticulata subsp. trisulcata,Cumquat Eremophila,Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,denticulata
+1018,Eucalyptus platydisca,Jimberlana Mallee,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,platydisca
+1019,Grevillea dryandroides subsp. hirsuta,Hairy Phalanx Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,dryandroides
+1020,Grevillea elongata,Ironstone Grevillea,Vulnerable,Plantae,Magnoliopsida,Proteaceae,Grevillea,elongata
+1023,Eremophila vernicosa,Resinous Poverty Bush,Vulnerable,Plantae,Magnoliopsida,Myoporaceae,Eremophila,vernicosa
+1026,Grevillea dryandroides subsp. dryandroides,Phalanx Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,dryandroides
+1027,Eucalyptus crucis subsp. praecipua,Paynes Find Mallee,Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,crucis
+1029,Acacia rhamphophylla,Kundip Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,rhamphophylla
+1030,Drakaea isolata,Lonely HammerNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Drakaea,isolata
+1032,Wurmbea calcicola,Naturaliste Nancy,Endangered,Plantae,Liliopsida,Liliaceae,Wurmbea,calcicola
+1036,Spicospina flammocaerulea,Sunset Frog,Vulnerable,Animalia,Amphibia,Myobatrachidae,Spicospina,flammocaerulea
+1037,Acacia aprica,Blunt Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,aprica
+1038,Acacia aristulata,Watheroo Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,aristulata
+1039,Acacia ataxiphylla subsp. magna,LargeNafruited Tammin Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,ataxiphylla
+1040,Acacia auratiflora,OrangeNaflowered Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,auratiflora
+1041,Acacia recurvata,Recurved Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,recurvata
+1042,Acacia subflexuosa subsp. capillata,HairyNastemmed ZigNaZag Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,subflexuosa
+1045,Boronia exilis,Scott River Boronia,Endangered,Plantae,Magnoliopsida,Rutaceae,Boronia,exilis
+1049,Caladenia caesarea subsp. maritima,Cape SpiderNaorchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,caesarea
+1058,Chordifex abortivus,Manypeaks Rush,Endangered,Plantae,Liliopsida,Restionaceae,Chordifex,abortivus
+1059,Conospermum densiflorum subsp. unicephalatum,OneNaheaded Smokebush,Endangered,Plantae,Magnoliopsida,Proteaceae,Conospermum,densiflorum
+1060,Darwinia chapmaniana,Chapman's Bell,Endangered,Plantae,Magnoliopsida,Myrtaceae,Darwinia,chapmaniana
+1061,Daviesia cunderdin,Cunderdin Daviesia,Endangered,Plantae,Magnoliopsida,Fabaceae,Daviesia,cunderdin
+1062,Daviesia elongata subsp. elongata,LongNaleaved Daviesia,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Daviesia,elongata
+1064,Drummondita longifolia,Peak Charles Drummondita,Vulnerable,Plantae,Magnoliopsida,Rutaceae,Drummondita,longifolia
+1065,Eleocharis keigheryi,Keighery's Eleocharis,Vulnerable,Plantae,Liliopsida,Cyperaceae,Eleocharis,keigheryi
+1066,Eremophila pinnatifida,PinnateNaleaf Eremophila,Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,pinnatifida
+1072,Grevillea curviloba subsp. curviloba,CurvedNaleaf Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,curviloba
+1073,Grevillea curviloba subsp. incurva,Narrow curvedNaleaf Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,curviloba
+1075,Grevillea rara,Rare Grevillea,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,rara
+1078,Jacksonia pungens,Pungent Jacksonia,Endangered,Plantae,Magnoliopsida,Fabaceae,Jacksonia,pungens
+1079,Lasiopetalum pterocarpum,WingNafruited Lasiopetalum,Endangered,Plantae,Magnoliopsida,Sterculiaceae,Lasiopetalum,pterocarpum
+1083,Macarthuria keigheryi,Keighery's Macarthuria,Endangered,Plantae,Magnoliopsida,Molluginaceae,Macarthuria,keigheryi
+1088,Persoonia micranthera,SmallNaflowered Snottygobble,Endangered,Plantae,Magnoliopsida,Proteaceae,Persoonia,micranthera
+1089,Philotheca basistyla,WhiteNaflowered Philotheca,Endangered,Plantae,Magnoliopsida,Rutaceae,Philotheca,basistyla
+1090,Philotheca falcata,SickleNaleaved Waxflower,Critically Endangered,Plantae,Magnoliopsida,Rutaceae,Philotheca,falcata
+1092,Philotheca wonganensis,Wongan Eriostemon,Endangered,Plantae,Magnoliopsida,Rutaceae,Philotheca,wonganensis
+1112,Synaphea quartzitica,QuartzNaloving Synaphea,Endangered,Plantae,Magnoliopsida,Proteaceae,Synaphea,quartzitica
+1113,Xyris exilis,Stirling Range Xyris,Vulnerable,Plantae,Liliopsida,Xyridaceae,Xyris,exilis
+1114,Daviesia glossosema,MaroonNaflowered Daviesia,Critically Endangered,Plantae,Magnoliopsida,Fabaceae,Daviesia,glossosema
+1115,Thelymitra dedmaniarum,Cinnamon Sun Orchid,Endangered,Plantae,Liliopsida,Orchidaceae,Thelymitra,dedmaniarum
+1116,Acacia cochlocarpa subsp. velutinosa,Velvety Spiral Pod Wattle,Critically Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,cochlocarpa
+1117,Eremophila rostrata,Beaked Eremophila,Critically Endangered,Plantae,Magnoliopsida,Myoporaceae,Eremophila,rostrata
+1118,Acacia imitans,Gibson Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,imitans
+1119,Acacia wilsonii,Wilson's Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,wilsonii
+1120,Caladenia melanema,Ballerina Orchid,Critically Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,melanema
+1121,Grevillea corrugata,a shrub,Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,corrugata
+1122,Verticordia apecta,"Hay River Featherflower, Scruffy Verticordia",Critically Endangered,Plantae,Magnoliopsida,Myrtaceae,Verticordia,apecta
+1139,Synaphea stenoloba,Dwellingup Synaphea,Endangered,Plantae,Magnoliopsida,Proteaceae,Synaphea,stenoloba
+1141,Tetratheca paynterae,Paynter's Tetratheca,Endangered,Plantae,Magnoliopsida,Tremandraceae,Tetratheca,paynterae
+1142,Diomedea dabbenena,Tristan Albatross,Endangered,Animalia,Aves,Diomedeidae,Diomedea,dabbenena
+1143,Thalassarche melanophris,BlackNabrowed Albatross,Vulnerable,Animalia,Aves,Diomedeidae,Thalassarche,melanophris
+1144,Thalassarche chrysostoma,GreyNaheaded Albatross,Endangered,Animalia,Aves,Diomedeidae,Thalassarche,chrysostoma
+1145,Geophaps smithii blaauwi,Partridge Pigeon (western),Vulnerable,Animalia,Aves,Columbidae,Geophaps,smithii
+1148,Perameles bougainville bougainville,Western Barred Bandicoot (Shark Bay),Endangered,Animalia,Mammalia,Peramelidae,Perameles,bougainville
+1151,Potorous gilbertii,"Gilbert's Potoroo, Ngilkat",Critically Endangered,Animalia,Mammalia,Potoroidae,Potorous,gilbertii
+1154,Petrogale lateralis lateralis,"BlackNaflanked RockNawallaby, Moororong, BlackNafooted Rock Wallaby",Endangered,Animalia,Mammalia,Macropodidae,Petrogale,lateralis
+1155,Petrogale lateralis MacDonnell Ranges race,"Warru, BlackNafooted RockNawallaby (MacDonnell Ranges race)",Vulnerable,Animalia,Mammalia,Macropodidae,Petrogale,lateralis
+1158,Lagostrophus fasciatus albipilis,Banded HareNawallaby (mainland),Extinct,Animalia,Mammalia,Macropodidae,Lagostrophus,fasciatus
+1159,Lagorchestes hirsutus hirsutus,"Rufous HareNawallaby (southNawestern), Woorap",Extinct,Animalia,Mammalia,Macropodidae,Lagorchestes,hirsutus
+1161,Bettongia lesueur graii,"Boodie (inland), Burrowing Bettong (inland)",Extinct,Animalia,Mammalia,Potoroidae,Bettongia,lesueur
+1162,Bettongia penicillata penicillata,"BrushNatailed Bettong (central and southNaeast), BrushNatailed Bettong (southNaeast mainland)",Extinct,Animalia,Mammalia,Potoroidae,Bettongia,penicillata
+1163,Bettongia lesueur lesueur,"Burrowing Bettong (Shark Bay), Boodie",Vulnerable,Animalia,Mammalia,Potoroidae,Bettongia,lesueur
+1164,Lagorchestes conspicillatus conspicillatus,Spectacled HareNawallaby (Barrow Island),Vulnerable,Animalia,Mammalia,Macropodidae,Lagorchestes,conspicillatus
+1165,Lagorchestes hirsutus bernieri,Rufous HareNawallaby (Bernier Island),Vulnerable,Animalia,Mammalia,Macropodidae,Lagorchestes,hirsutus
+1166,Lagorchestes hirsutus dorreae,Rufous HareNawallaby (Dorre Island),Vulnerable,Animalia,Mammalia,Macropodidae,Lagorchestes,hirsutus
+1167,Lagostrophus fasciatus fasciatus,"Banded HareNawallaby, Merrnine, Marnine, Munning ",Vulnerable,Animalia,Mammalia,Macropodidae,Lagostrophus,fasciatus
+1168,Isoodon auratus auratus,Golden Bandicoot (mainland),Vulnerable,Animalia,Mammalia,Peramelidae,Isoodon,auratus
+1169,Isoodon auratus barrowensis,Golden Bandicoot (Barrow Island),Vulnerable,Animalia,Mammalia,Peramelidae,Isoodon,auratus
+1175,Milyeringa veritas,Blind Gudgeon,Vulnerable,Animalia,Actinopterygii,Eleotridae,Milyeringa,veritas
+1176,Ophisternon candidum,Blind Cave Eel,Vulnerable,Animalia,Actinopterygii,Synbranchidae,Ophisternon,candidum
+1177,Rhincodon typus,Whale Shark,Vulnerable,Animalia,Chondrichthyes,Rhincodontidae,Rhincodon,typus
+1182,Nannatherina balstoni,Balston's Pygmy Perch,Vulnerable,Animalia,Actinopterygii,Nannopercidae,Nannatherina,balstoni
+1183,Liasis olivaceus barroni,Olive Python (Pilbara subspecies),Vulnerable,Animalia,Reptilia,Boidae,Liasis,olivaceus
+1189,Hesperocolletes douglasi,"Douglas' BroadNaheaded Bee, Rottnest Bee",Critically Endangered,Animalia,Insecta,Colletidae,Hesperocolletes,douglasi
+1192,Leioproctus douglasiellus,a shortNatongued bee,Critically Endangered,Animalia,Insecta,Colletidae,Leioproctus,douglasiellus
+1203,Idiosoma nigrum,"ShieldNabacked Trapdoor Spider, Black Rugose Trapdoor Spider",Vulnerable,Animalia,Arachnida,Idiopidae,Idiosoma,nigrum
+1204,Neopasiphae simplicior,A native bee,Critically Endangered,Animalia,Insecta,Colletidae,Neopasiphae,simplicior
+1205,Bettongia penicillata ogilbyi,Woylie,Endangered,Animalia,Mammalia,Potoroidae,Bettongia,penicillata
+1206,Petrogale lateralis hacketti,Recherche RockNawallaby,Vulnerable,Animalia,Mammalia,Macropodidae,Petrogale,lateralis
+1208,Saccolaimus saccolaimus nudicluniatus,"BareNarumped SheathNatailed Bat, BareNarumped Sheathtail Bat",Vulnerable,Animalia,Mammalia,Emballonuridae,Saccolaimus,saccolaimus
+1215,Calyptorhynchus banksii naso,"Forest RedNatailed BlackNaCockatoo, Karrak",Vulnerable,Animalia,Aves,Cacatuidae,Calyptorhynchus,banksii
+1238,Jacksonia quairading,"Quairading Jacksonia, Quairading Stinkwood",Endangered,Plantae,Magnoliopsida,Fabaceae,Jacksonia,quairading
+1239,Andersonia pinaster,Two Peoples Bay Andersonia,Vulnerable,Plantae,Magnoliopsida,Epacridaceae,Andersonia,pinaster
+1251,Pristis zijsron,"Green Sawfish, Dindagubba, Narrowsnout Sawfish",Vulnerable,Animalia,Chondrichthyes,Pristidae,Pristis,zijsron
+1253,Pristis clavata,"Dwarf Sawfish, Queensland Sawfish",Vulnerable,Animalia,Chondrichthyes,Pristidae,Pristis,clavata
+1255,Galeorhinus galeus,"School Shark, Eastern School Shark, Snapper Shark, Tope, Soupfin Shark",Conservation Dependent,Animalia,Chondrichthyes,Triakidae,Galeorhinus,galeus
+1260,Caladenia lodgeana,Lodge's SpiderNaorchid,Critically Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,lodgeana
+1261,Caladenia procera,Carbunup King Spider Orchid,Critically Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,procera
+1262,Caladenia barbarella,"Small Dragon Orchid, Common Dragon Orchid",Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,barbarella
+1263,Caladenia drakeoides,Hinged Dragon Orchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,drakeoides
+1264,Caladenia luteola,Lemon Spider Orchid,Critically Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,luteola
+1265,Caladenia williamsiae,Williams Spider Orchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,williamsiae
+1267,Carcharias taurus (west coast population),Grey Nurse Shark (west coast population),Vulnerable,Animalia,Chondrichthyes,Carcharhinidae,Carcharias,taurus
+1270,Seriolella brama,Blue Warehou,Conservation Dependent,Animalia,Actinopterygii,Centrolophidae,Seriolella,brama
+1271,Thunnus maccoyii,Southern Bluefin Tuna,Conservation Dependent,Animalia,Actinopterygii,Scombridae,Thunnus,maccoyii
+1287,Rostratula australis,Australian Painted Snipe,Endangered,Animalia,Aves,Rostratulidae,Rostratula,australis
+1296,Ogyris subterrestris petrina,Arid Bronze Azure,Critically Endangered,Animalia,Insecta,Lycaenidae,Ogyris,subterrestris
+1303,Gastrolobium modestum,BroadNaleaved Gastrolobium,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Gastrolobium,modestum
+1304,Gastrolobium diabolophyllum,Bodallin Poison,Critically Endangered,Plantae,Magnoliopsida,Fabaceae,Gastrolobium,diabolophyllum
+1305,Gastrolobium luteifolium,YellowNaleafed Gastrolobium,Critically Endangered,Plantae,Magnoliopsida,Fabaceae,Gastrolobium,luteifolium
+1306,Gastrolobium papilio,ButterflyNaleaved Gastrolobium,Endangered,Plantae,Magnoliopsida,Fabaceae,Gastrolobium,papilio
+1317,Cherax tenuimanus,"Hairy Marron, Margaret River Hairy Marron, Margaret River Marron",Critically Endangered,Animalia,Malacostraca,Parastacidae,Cherax,tenuimanus
+1325,Ordtrachia septentrionalis,Rosewood Keeled Snail,Critically Endangered,Animalia,Gastropoda,Camaenidae,Ordtrachia,septentrionalis
+1335,Brachyscias verecundus,Ironstone Brachyscias,Critically Endangered,Plantae,Magnoliopsida,Apiaceae,Brachyscias,verecundus
+1336,Stachystemon nematophorus,ThreeNaflowered Stachystemon,Vulnerable,Plantae,Magnoliopsida,Euphorbiaceae,Stachystemon,nematophorus
+1337,Acacia splendens,"Splendid Wattle, Dandaragan Wattle",Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,splendens
+1354,Calectasia pignattiana,Stilted Tinsel Lily,Vulnerable,Plantae,Liliopsida,Dasypogonaceae,Calectasia,pignattiana
+1355,Apium prostratum subsp. Porongurup Range (G.J.Keighery 8631),"FineNaleaved Apium, Porongurup Celery",Vulnerable,Plantae,Magnoliopsida,Apiaceae,Apium,prostratum
+1365,Diomedea antipodensis gibsoni,Gibson's Albatross,Vulnerable,Animalia,Aves,Diomedeidae,Diomedea,antipodensis
+1373,Lewinia pectoralis clelandi,"Western Australian Lewin's Rail, Lewin's Rail (western)",Extinct,Animalia,Aves,Rallidae,Lewinia,pectoralis
+1374,Turnix varius scintillans,Painted ButtonNaquail (Houtman Abrolhos),Vulnerable,Animalia,Aves,Turnicidae,Turnix,varius
+1376,Glyphis garricki,"Northern River Shark, New Guinea River Shark",Endangered,Animalia,Chondrichthyes,Carcharhinidae,Glyphis,garricki
+1377,Chamelaucium sp. Cataby (G.J.Keighery 11009),Griffin's Waxflower,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Chamelaucium,sp. Cataby (G.J.Keighery 11009)
+1378,Isopogon robustus,Robust Coneflower,Critically Endangered,Plantae,Magnoliopsida,Proteaceae,Isopogon,robustus
+1379,Tecticornia flabelliformis,Bead Glasswort,Vulnerable,Plantae,Magnoliopsida,Chenopodiaceae,Tecticornia,flabelliformis
+1380,Jacksonia velveta,Collie Jacksonia,Endangered,Plantae,Magnoliopsida,Fabaceae,Jacksonia,velveta
+1381,Engaewa pseudoreducta,Margaret River Burrowing Crayfish,Critically Endangered,Animalia,Malacostraca,Parastacidae,Engaewa,pseudoreducta
+1382,Engaewa reducta,Dunsborough Burrowing Crayfish,Critically Endangered,Animalia,Malacostraca,Parastacidae,Engaewa,reducta
+1383,Engaewa walpolea,Walpole Burrowing Crayfish,Endangered,Animalia,Malacostraca,Parastacidae,Engaewa,walpolea
+1387,Banksia montana,Stirling Range Dryandra,Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,montana
+1389,Tecticornia bulbosa,LargeNaarticled Samphire,Vulnerable,Plantae,Magnoliopsida,Chenopodiaceae,Tecticornia,bulbosa
+1390,Banksia anatona,Cactus Dryandra,Critically Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,anatona
+1391,Banksia pseudoplumosa,False PlumedNaBanksia,Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,pseudoplumosa
+1392,Banksia aurantia,Orange Dryandra,Critically Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,aurantia
+1393,Banksia ionthocarpa,Kamballup Dryandra,Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,ionthocarpa
+1394,Banksia mimica,Summer Honeypot,Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,mimica
+1395,Banksia nivea subsp. uliginosa,Swamp Honeypot,Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,nivea
+1396,Banksia serratuloides subsp. perissa,Northern Serrate Dryandra,Critically Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,serratuloides
+1397,Banksia serratuloides subsp. serratuloides,Southern Serrate Dryandra,Vulnerable,Plantae,Magnoliopsida,Proteaceae,Banksia,serratuloides
+1398,Banksia squarrosa subsp. argillacea,Whicher Range Dryandra,Vulnerable,Plantae,Magnoliopsida,Proteaceae,Banksia,squarrosa
+1401,Rhinonicteris aurantia (Pilbara form),Pilbara LeafNanosed Bat,Vulnerable,Animalia,Mammalia,Rhinonycteridae,Rhinonicteris,aurantia (Pilbara form)
+1406,Synaphea sp. Pinjarra (R. Davis 6578),ClubNaleafed Synaphea,Critically Endangered,Plantae,Magnoliopsida,Proteaceae,Synaphea,sp. Pinjarra (R. Davis 6578)
+1407,Synaphea sp. Fairbridge Farm (D. Papenfus 696),Selena's Synaphea,Critically Endangered,Plantae,Magnoliopsida,Proteaceae,Synaphea,sp. Fairbridge Farm (D. Papenfus 696)
+1410,Sternula nereis nereis,Australian Fairy Tern,Vulnerable,Animalia,Aves,Laridae,Sternula,nereis
+1414,Leucopogon spectabilis,Ironstone BeardNaheath,Critically Endangered,Plantae,Magnoliopsida,Epacridaceae,Leucopogon,spectabilis
+1415,Banksia fuscobractea,DarkNabract Banksia,Critically Endangered,Plantae,Magnoliopsida,Proteaceae,Banksia,fuscobractea
+1423,Liopholis kintorei,"Great Desert Skink, Tjakura, Warrarna, Mulyamiji",Vulnerable,Animalia,Reptilia,Scincidae,Liopholis,kintorei
+1425,Liopholis pulchra longicauda,"Jurien Bay Skink, Jurien Bay RockNaskink",Vulnerable,Animalia,Reptilia,Scincidae,Liopholis,pulchra
+1427,Darwinia foetida,Muchea Bell,Critically Endangered,Plantae,Magnoliopsida,Myrtaceae,Darwinia,foetida
+1428,Darwinia nubigena,"Success Bell, Red Mountain Bell",Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Darwinia,nubigena
+1429,Darwinia polychroma,Harlequin Bell,Endangered,Plantae,Magnoliopsida,Myrtaceae,Darwinia,polychroma
+1430,Darwinia whicherensis,Abba Bell,Endangered,Plantae,Magnoliopsida,Myrtaceae,Darwinia,whicherensis
+1434,Lysiosepalum abollatum,Woolly Lysiosepalum,Critically Endangered,Plantae,Magnoliopsida,Sterculiaceae,Lysiosepalum,abollatum
+1446,Acanthophis hawkei,Plains Death Adder,Vulnerable,Animalia,Reptilia,Elapidae,Acanthophis,hawkei
+1452,Patersonia spirifolia,SpiralNaleaved Patersonia,Endangered,Plantae,Liliopsida,Iridaceae,Patersonia,spirifolia
+1462,Pezoporus flaviventris,"Western Ground Parrot, Kyloring",Critically Endangered,Animalia,Aves,Psittacidae,Pezoporus,flaviventris
+1469,Pterostylis sinuata,"Northampton Midget Greenhood, Western Swan Grrenhood",Endangered,Plantae,Liliopsida,Orchidaceae,Pterostylis,sinuata
+1470,Caladenia graniticola,"Pingaring SpiderNaorchid, Granite SpiderNaorchid",Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,graniticola
+1471,Grevillea brachystylis subsp. grandis,LargeNaflowered ShortNastyled Grevillea,Critically Endangered,Plantae,Magnoliopsida,Proteaceae,Grevillea,brachystylis
+1472,Ornduffia calthifolia,Mountain Villarsia,Endangered,Plantae,Magnoliopsida,Menyanthaceae,Ornduffia,calthifolia
+1473,Stylidium coroniforme subsp. coroniforme,"Wongan Hills Triggerplant, Wongan Triggerplant",Endangered,Plantae,Magnoliopsida,Stylidiaceae,Stylidium,coroniforme
+1474,Acacia woodmaniorum,Woodman's Wattle,Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,woodmaniorum
+1477,Sphyrna lewini,Scalloped Hammerhead,Conservation Dependent,Animalia,Chondrichthyes,Sphyrnidae,Sphyrna,lewini
+1480,Lerista nevinae,Nevin's Slider,Endangered,Animalia,Reptilia,Scincidae,Lerista,nevinae
+1491,Westralunio carteri,"Carter's Freshwater Mussel, Freshwater Mussel",Vulnerable,Animalia,Bivalvia,Hyriidae,Westralunio,carteri
+1496,Limosa lapponica baueri,"BarNatailed Godwit (baueri), Western Alaskan BarNatailed Godwit",Vulnerable,Animalia,Aves,Scolopacidae,Limosa,lapponica
+1497,Androcalva perlaria,PearlNalike Androcalva,Endangered,Plantae,Magnoliopsida,Malvaceae,Androcalva,perlaria
+1498,Commersonia erythrogyna,Trigwell's Rulingia,Endangered,Plantae,Magnoliopsida,Malvaceae,Commersonia,erythrogyna
+1499,Limosa lapponica menzbieri,"Northern Siberian BarNatailed Godwit, BarNatailed Godwit (menzbieri)",Critically Endangered,Animalia,Aves,Scolopacidae,Limosa,lapponica
+1512,Eremophila koobabbiensis,"Koobabbie Eremophila, Koobabbie Poverty Bush",Critically Endangered,Plantae,Magnoliopsida,Scrophulariaceae,Eremophila,koobabbiensis
+1516,Pseudococcus markharveyi,Banksia montana mealybug,Critically Endangered,Animalia,Insecta,Pseudococcidae,Pseudococcus,markharveyi
+1517,Kumonga exleyi,Cape Range Remipede,Vulnerable,Animalia,Remipedia,Kumongidae,Kumonga,exleyi
+1518,Commersonia apella,ManyNaflowered Commersonia,Critically Endangered,Plantae,Magnoliopsida,Malvaceae,Commersonia,apella
+1521,Paracaleana dixonii,Sandplain Duck Orchid,Endangered,Plantae,Liliopsida,Orchidaceae,Paracaleana,dixonii
+1530,Duma horrida subsp. abdita,Remote Thorny Lignum,Critically Endangered,Plantae,Magnoliopsida,Polygonaceae,Duma,horrida
+1536,Petrogale concinna monastria,Nabarlek (Kimberley),Endangered,Animalia,Mammalia,Macropodidae,Petrogale,concinna
+1540,Mesembriomys gouldii gouldii,"BlackNafooted TreeNarat (Kimberley and mainland Northern Territory), Djintamoonga, Manbul",Endangered,Animalia,Mammalia,Muridae,Mesembriomys,gouldii
+1549,Trioza barrettae,Banksia brownii plant louse,Endangered,Animalia,Insecta,Triozidae,Trioza,barrettae
+1550,Androcalva bivillosa,Straggling Androcalva,Critically Endangered,Plantae,Magnoliopsida,Malvaceae,Androcalva,bivillosa
+1551,Stylidium applanatum,FlatNaleaved Triggerplant,Critically Endangered,Plantae,Magnoliopsida,Stylidiaceae,Stylidium,applanatum
+1552,Chamelaucium sp. S coastal plain (R.D.Royce 4872),Royce's Waxflower,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Chamelaucium,sp. S coastal plain (R.D.Royce 4872)
+1553,Eucalyptus x balanites,"Cadda Road Mallee, Cadda Mallee",Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,x balanites
+1554,Eucalyptus x phylacis,Meelup Mallee,Endangered,Plantae,Magnoliopsida,Myrtaceae,Eucalyptus,x phylacis
+1557,Lagorchestes hirsutus Central Australian subspecies,"Mala, Rufous HareNaWallaby (Central Australia)",Endangered,Animalia,Mammalia,Macropodidae,Lagorchestes,hirsutus
+1559,Bettongia lesueur Barrow and Boodie Islands subspecies,"Boodie, Burrowing Bettong (Barrow and Boodie Islands)",Vulnerable,Animalia,Mammalia,Potoroidae,Bettongia,lesueur
+1562,Caladenia hopperiana,"Quindanning Spider Orchid, Boddington Spider Orchid",Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,hopperiana
+1563,Caladenia leucochila,Collie Spider Orchid,Endangered,Plantae,Liliopsida,Orchidaceae,Caladenia,leucochila
+1568,Nannoperca pygmaea,Little Pygmy Perch,Endangered,Animalia,Actinopterygii,Percichthyidae,Nannoperca,pygmaea
+1569,Phascogale tapoatafa kimberleyensis,"Kimberley brushNatailed phascogale, BrushNatailed Phascogale (Kimberley)",Vulnerable,Animalia,Mammalia,Dasyuridae,Phascogale,tapoatafa
+1571,Galaxiella nigrostriata,"Blackstriped Dwarf Galaxias, BlackNastripe Minnow",Endangered,Animalia,Actinopterygii,Galaxiidae,Galaxiella,nigrostriata
+1573,Chamelaucium sp. Gingin (N.G.Marchant 6),Gingin Wax,Endangered,Plantae,Magnoliopsida,Myrtaceae,Chamelaucium,sp. Gingin (N.G.Marchant 6)
+1575,Seringia exastia,Fringed FireNabush,Critically Endangered,Plantae,Magnoliopsida,Malvaceae,Seringia,exastia
+1579,Bertmainius colonus,Eastern Stirling Range Pygmy Trapdoor Spider,Vulnerable,Animalia,Arachnida,Migidae,Bertmainius,colonus
+1580,Bertmainius tingle,Tingle Pygmy Trapdoor Spider,Endangered,Animalia,Arachnida,Migidae,Bertmainius,tingle
+1581,Gastrolobium argyrotrichum,Metricup Pea,Critically Endangered,Plantae,Magnoliopsida,Fabaceae,Gastrolobium,argyrotrichum
+1582,Diomedea epomophora,Southern Royal Albatross,Vulnerable,Animalia,Aves,Diomedeidae,Diomedea,epomophora
+1583,Diomedea exulans,Wandering Albatross,Vulnerable,Animalia,Aves,Diomedeidae,Diomedea,exulans
+1584,Thalassarche cauta,Shy Albatross,Endangered,Animalia,Aves,Diomedeidae,Thalassarche,cauta
+1585,Osphranter robustus isabellinus,"Barrow Island Wallaroo, Barrow Island Euro",Vulnerable,Animalia,Mammalia,Macropodidae,Osphranter,robustus
+1586,Hibbertia abyssus,Bandalup Buttercup,Critically Endangered,Plantae,Magnoliopsida,Dilleniaceae,Hibbertia,abyssus
+1589,Stylidium asymmetricum,Asymmetric Triggerplant,Endangered,Plantae,Magnoliopsida,Stylidiaceae,Stylidium,asymmetricum  
+1590,Rhizanthella johnstonii,South Coast Underground Orchid,Critically Endangered,Plantae,Liliopsida,Orchidaceae,Rhizanthella,johnstonii
+1591,Galaxias truttaceus (Western Australian population),Western Trout Minnow,Endangered,Animalia,Actinopterygii,Galaxiidae,Galaxias,truttaceus (Western Australian population)
+1595,Petrogale lateralis kimberleyensis,"Wiliji, West Kimberley RockNawallaby",Vulnerable,Animalia,Mammalia,Macropodidae,Petrogale,lateralis

@@ -1,0 +1,124 @@
+,Scientific_Name,Common_Name,Threatened_Status,Kingdom,Class,Family,Genus,Species
+3,Balaenoptera musculus,Blue Whale,Endangered,Animalia,Mammalia,Balaenopteridae,Balaenoptera,musculus
+5,Megaptera novaeangliae,Humpback Whale,Vulnerable,Animalia,Mammalia,Balaenopteridae,Megaptera,novaeangliae
+7,Xeromys myoides,"Water Mouse, False Water Rat, Yirrkoo",Vulnerable,Animalia,Mammalia,Muridae,Xeromys,myoides
+8,Zyzomys pedunculatus,"Central RockNarat, Antina",Critically Endangered,Animalia,Mammalia,Muridae,Zyzomys,pedunculatus
+17,Pseudomys australis,"Plains Rat, Palyoora, Plains Mouse",Vulnerable,Animalia,Mammalia,Muridae,Pseudomys,australis
+18,Pseudomys fieldi,"Shark Bay Mouse, Djoongari, Alice Springs Mouse",Vulnerable,Animalia,Mammalia,Muridae,Pseudomys,fieldi
+19,Notomys amplus,"ShortNatailed HoppingNamouse, Yoontoo",Extinct,Animalia,Mammalia,Muridae,Notomys,amplus
+20,Notomys aquilo,"Northern HoppingNamouse, Woorrentinta",Vulnerable,Animalia,Mammalia,Muridae,Notomys,aquilo
+21,Notomys fuscus,"Dusky HoppingNamouse, Wilkiniti",Vulnerable,Animalia,Mammalia,Muridae,Notomys,fuscus
+22,Notomys longicaudatus,"LongNatailed HoppingNamouse, Koolawa, Talamba",Extinct,Animalia,Mammalia,Muridae,Notomys,longicaudatus
+24,Conilurus penicillatus,"BrushNatailed RabbitNarat, BrushNatailed TreeNarat, Pakooma",Vulnerable,Animalia,Mammalia,Muridae,Conilurus,penicillatus
+25,Leporillus apicalis,"Lesser StickNanest Rat,Tjooyalpi, WhiteNatailed StickNanest Rat",Extinct,Animalia,Mammalia,Muridae,Leporillus,apicalis
+27,Macroderma gigas,Ghost Bat,Vulnerable,Animalia,Mammalia,Megadermatidae,Macroderma,gigas
+41,Onychogalea lunata,"Crescent Nailtail Wallaby, Tjawalpa, Wurrung",Extinct,Animalia,Mammalia,Macropodidae,Onychogalea,lunata
+42,Lagorchestes asomatus,"Kuluwarri, Central HareNawallaby",Extinct,Animalia,Mammalia,Macropodidae,Lagorchestes,asomatus
+47,Perameles eremiana,"Desert Bandicoot, Walilya",Extinct,Animalia,Mammalia,Peramelidae,Perameles,eremiana
+48,Macrotis lagotis,Greater Bilby,Vulnerable,Animalia,Mammalia,Thylacomyidae,Macrotis,lagotis
+49,Macrotis leucura,"Yallara, Lesser Bilby, Djoonpi",Extinct,Animalia,Mammalia,Thylacomyidae,Macrotis,leucura
+50,Sminthopsis psammophila,Sandhill Dunnart,Endangered,Animalia,Mammalia,Dasyuridae,Sminthopsis,psammophila
+51,Myrmecobius fasciatus,Numbat,Endangered,Animalia,Mammalia,Myrmecobiidae,Myrmecobius,fasciatus
+52,Chaeropus ecaudatus,"PigNafooted Bandicoot, Kanjilpa, Wilalya",Extinct,Animalia,Mammalia,Peramelidae,Chaeropus,ecaudatus
+54,Sminthopsis butleri,Butler's Dunnart,Vulnerable,Animalia,Mammalia,Dasyuridae,Sminthopsis,butleri
+57,Phascogale calura,"RedNatailed Phascogale, RedNatailed Wambenger, Kenngoor",Vulnerable,Animalia,Mammalia,Dasyuridae,Phascogale,calura
+58,Dasyuroides byrnei,"Kowari, brushyNatailed marsupial rat, Byrne's crestNatailed marsupial rat ",Vulnerable,Animalia,Mammalia,Dasyuridae,Dasyuroides,byrnei
+59,Dasyurus geoffroii,"Chuditch, Western Quoll",Vulnerable,Animalia,Mammalia,Dasyuridae,Dasyurus,geoffroii
+60,Dasyurus hallucatus,"Northern Quoll, Digul [GogoNaYimidir], Wijingadda [Dambimangari], Wiminji [Martu]",Endangered,Animalia,Mammalia,Dasyuridae,Dasyurus,hallucatus
+63,Antechinus bellus,Fawn Antechinus,Vulnerable,Animalia,Mammalia,Dasyuridae,Antechinus,bellus
+64,Erythrura gouldiae,Gouldian Finch,Endangered,Animalia,Aves,Estrildidae,Erythrura,gouldiae
+67,Grantiella picta,Painted Honeyeater,Vulnerable,Animalia,Aves,Meliphagidae,Grantiella,picta
+70,Amytornis dorotheae,Carpentarian Grasswren,Endangered,Animalia,Aves,Maluridae,Amytornis,dorotheae
+71,Amytornis woodwardi,"WhiteNathroated Grasswren, Yirlinkirrkirr",Vulnerable,Animalia,Aves,Maluridae,Amytornis,woodwardi
+82,Polytelis alexandrae,"Princess Parrot, Alexandra's Parrot",Vulnerable,Animalia,Aves,Psittacidae,Polytelis,alexandrae
+84,Numenius madagascariensis,"Eastern Curlew, Far Eastern Curlew",Critically Endangered,Animalia,Aves,Scolopacidae,Numenius,madagascariensis
+85,Calidris canutus,"Red Knot, Knot",Endangered,Animalia,Aves,Scolopacidae,Calidris,canutus
+86,Calidris ferruginea,Curlew Sandpiper,Critically Endangered,Animalia,Aves,Scolopacidae,Calidris,ferruginea
+87,Calidris tenuirostris,Great Knot,Critically Endangered,Animalia,Aves,Scolopacidae,Calidris,tenuirostris
+88,Charadrius leschenaultii,"Greater Sand Plover, Large Sand Plover",Vulnerable,Animalia,Aves,Charadriidae,Charadrius,leschenaultii
+89,Charadrius mongolus,"Lesser Sand Plover, Mongolian Plover",Endangered,Animalia,Aves,Charadriidae,Charadrius,mongolus
+90,Pedionomus torquatus,PlainsNawanderer,Critically Endangered,Animalia,Aves,Pedionomidae,Pedionomus,torquatus
+92,Falco hypoleucos,Grey Falcon,Vulnerable,Animalia,Aves,Falconidae,Falco,hypoleucos
+93,Leipoa ocellata,Malleefowl,Vulnerable,Animalia,Aves,Megapodiidae,Leipoa,ocellata
+94,Erythrotriorchis radiatus,Red Goshawk,Vulnerable,Animalia,Aves,Accipitridae,Erythrotriorchis,radiatus
+115,Ophidiocephalus taeniatus,Bronzeback SnakeNalizard,Vulnerable,Animalia,Reptilia,Pygopodidae,Ophidiocephalus,taeniatus
+123,Caretta caretta,Loggerhead Turtle,Endangered,Animalia,Reptilia,Cheloniidae,Caretta,caretta
+124,Chelonia mydas,Green Turtle,Vulnerable,Animalia,Reptilia,Cheloniidae,Chelonia,mydas
+125,Eretmochelys imbricata,Hawksbill Turtle,Vulnerable,Animalia,Reptilia,Cheloniidae,Eretmochelys,imbricata
+126,Lepidochelys olivacea,"Olive Ridley Turtle, Pacific Ridley Turtle",Endangered,Animalia,Reptilia,Cheloniidae,Lepidochelys,olivacea
+127,Dermochelys coriacea,"Leatherback Turtle, Leathery Turtle, Luth",Endangered,Animalia,Reptilia,Dermochelyidae,Dermochelys,coriacea
+168,Eleocharis papillosa,Dwarf Desert SpikeNarush,Vulnerable,Plantae,Liliopsida,Cyperaceae,Eleocharis,papillosa
+183,Acacia undoolyana,"Undoolya Wattle, SickleNaleaf Wattle",Vulnerable,Plantae,Magnoliopsida,Fabaceae,Acacia,undoolyana
+264,Ricinocarpos gloriaNamedii,Glory of the Centre,Vulnerable,Plantae,Magnoliopsida,Euphorbiaceae,Ricinocarpos,gloriaNamedii
+276,Prostanthera nudula,Mount Illbilie Mintbush,Vulnerable,Plantae,Magnoliopsida,Lamiaceae,Prostanthera,nudula
+311,Acacia peuce,"Waddy, Waddi, WaddyNawood, Birdsville Wattle",Vulnerable,Plantae,Magnoliopsida,Fabaceae,Acacia,peuce
+403,Macrozamia macdonnellii,MacDonnell Ranges Cycad,Vulnerable,Plantae,Cycadatae,Zamiaceae,Macrozamia,macdonnellii
+448,Minuria tridens,Minnie Daisy,Vulnerable,Plantae,Magnoliopsida,Asteraceae,Minuria,tridens
+464,Acacia latzii,Latz's Wattle,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Acacia,latzii
+476,Acacia praetermissa,a shrub,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Acacia,praetermissa
+519,Thryptomene wittweri,Mountain Thryptomene,Vulnerable,Plantae,Magnoliopsida,Myrtaceae,Thryptomene,wittweri
+537,Acacia pickardii,Birds Nest Wattle,Vulnerable,Plantae,Magnoliopsida,Fabaceae,Acacia,pickardii
+569,Actinotus schwarzii,Desert FlannelNaflower,Vulnerable,Plantae,Magnoliopsida,Apiaceae,Actinotus,schwarzii
+679,Eleocharis retroflexa,a sedge,Vulnerable,Plantae,Liliopsida,Cyperaceae,Eleocharis,retroflexa
+724,Zyzomys maini,"Arnhem RockNarat, Arnhem Land RockNarat, Kodjperr",Vulnerable,Animalia,Mammalia,Muridae,Zyzomys,maini
+725,Zyzomys palatalis,"Carpentarian RockNarat, Aywalirroomoo",Endangered,Animalia,Mammalia,Muridae,Zyzomys,palatalis
+746,Falcunculus frontatus whitei,"Crested ShrikeNatit (northern), Northern ShrikeNatit",Vulnerable,Animalia,Aves,Pachycephalidae,Falcunculus,frontatus
+754,Tyto novaehollandiae kimberli,Masked Owl (northern),Vulnerable,Animalia,Aves,Tytonidae,Tyto,novaehollandiae
+755,Tyto novaehollandiae melvillensis,"Tiwi Masked Owl, Tiwi Islands Masked Owl",Endangered,Animalia,Aves,Tytonidae,Tyto,novaehollandiae
+838,Hoya australis subsp. oramicola,a vine,Vulnerable,Plantae,Magnoliopsida,Asclepiadaceae,Hoya,australis
+908,Eremophila prostrata,Rainbow Valley Fuchsia Bush,Vulnerable,Plantae,Magnoliopsida,Scrophulariaceae,Eremophila,prostrata
+930,Natator depressus,Flatback Turtle,Vulnerable,Animalia,Reptilia,Cheloniidae,Natator,depressus
+935,Pezoporus occidentalis,Night Parrot,Endangered,Animalia,Aves,Psittacidae,Pezoporus,occidentalis
+943,Pristis pristis,"Freshwater Sawfish, Largetooth Sawfish, River Sawfish, Leichhardt's Sawfish, Northern Sawfish",Vulnerable,Animalia,Chondrichthyes,Pristidae,Pristis,pristis
+946,Typhonium jonesii,a herb,Endangered,Plantae,Liliopsida,Araceae,Typhonium,jonesii
+966,Geophaps smithii smithii,Partridge Pigeon (eastern),Vulnerable,Animalia,Aves,Columbidae,Geophaps,smithii
+967,Malurus coronatus coronatus,PurpleNacrowned FairyNawren (western),Endangered,Animalia,Aves,Maluridae,Malurus,coronatus
+986,Carcharodon carcharias,"White Shark, Great White Shark",Vulnerable,Animalia,Chondrichthyes,Lamnidae,Carcharodon,carcharias
+1046,Boronia quadrilata,a shrub,Vulnerable,Plantae,Magnoliopsida,Rutaceae,Boronia,quadrilata
+1047,Boronia viridiflora,a shrub,Vulnerable,Plantae,Magnoliopsida,Rutaceae,Boronia,viridiflora
+1082,Livistona mariae subsp. mariae,"Central Australian Cabbage Palm, Red Cabbage Palm",Endangered,Plantae,Liliopsida,Arecaceae,Livistona,mariae
+1123,Hibiscus brennanii,a shrub,Vulnerable,Plantae,Magnoliopsida,Malvaceae,Hibiscus,brennanii
+1138,Typhonium taylori,a herb,Endangered,Plantae,Liliopsida,Araceae,Typhonium,taylori
+1155,Petrogale lateralis MacDonnell Ranges race,"Warru, BlackNafooted RockNawallaby (MacDonnell Ranges race)",Vulnerable,Animalia,Mammalia,Macropodidae,Petrogale,lateralis
+1159,Lagorchestes hirsutus hirsutus,"Rufous HareNawallaby (southNawestern), Woorap",Extinct,Animalia,Mammalia,Macropodidae,Lagorchestes,hirsutus
+1161,Bettongia lesueur graii,"Boodie (inland), Burrowing Bettong (inland)",Extinct,Animalia,Mammalia,Potoroidae,Bettongia,lesueur
+1162,Bettongia penicillata penicillata,"BrushNatailed Bettong (central and southNaeast), BrushNatailed Bettong (southNaeast mainland)",Extinct,Animalia,Mammalia,Potoroidae,Bettongia,penicillata
+1168,Isoodon auratus auratus,Golden Bandicoot (mainland),Vulnerable,Animalia,Mammalia,Peramelidae,Isoodon,auratus
+1177,Rhincodon typus,Whale Shark,Vulnerable,Animalia,Chondrichthyes,Rhincodontidae,Rhincodon,typus
+1208,Saccolaimus saccolaimus nudicluniatus,"BareNarumped SheathNatailed Bat, BareNarumped Sheathtail Bat",Vulnerable,Animalia,Mammalia,Emballonuridae,Saccolaimus,saccolaimus
+1221,Epthianura crocea tunneyi,"Alligator Rivers Yellow Chat, Yellow Chat (Alligator Rivers)",Endangered,Animalia,Aves,Meliphagidae,Epthianura,crocea
+1223,Melanodryas cucullata melvillensis,"Tiwi Islands Hooded Robin, Hooded Robin (Tiwi Islands)",Critically Endangered,Animalia,Aves,Petroicidae,Melanodryas,cucullata
+1232,Elseya lavarackorum,Gulf Snapping Turtle,Endangered,Animalia,Reptilia,Chelidae,Elseya,lavarackorum
+1251,Pristis zijsron,"Green Sawfish, Dindagubba, Narrowsnout Sawfish",Vulnerable,Animalia,Chondrichthyes,Pristidae,Pristis,zijsron
+1253,Pristis clavata,"Dwarf Sawfish, Queensland Sawfish",Vulnerable,Animalia,Chondrichthyes,Pristidae,Pristis,clavata
+1287,Rostratula australis,Australian Painted Snipe,Endangered,Animalia,Aves,Rostratulidae,Rostratula,australis
+1322,Mesodontrachia fitzroyana,Fitzroy Land Snail,Endangered,Animalia,Gastropoda,Camaenidae,Mesodontrachia,fitzroyana
+1323,Sinumelon bednalli,Bednall's Land Snail,Endangered,Animalia,Gastropoda,Camaenidae,Sinumelon,bednalli
+1324,Semotrachia euzyga,a land snail,Endangered,Animalia,Gastropoda,Camaenidae,Semotrachia,euzyga
+1325,Ordtrachia septentrionalis,Rosewood Keeled Snail,Critically Endangered,Animalia,Gastropoda,Camaenidae,Ordtrachia,septentrionalis
+1326,Typhonium mirabile,a herb,Endangered,Plantae,Liliopsida,Araceae,Typhonium,mirabile
+1328,Mirafra javanica melvillensis,Horsfield's Bushlark (Tiwi Islands),Vulnerable,Animalia,Aves,Alaudidae,Mirafra,javanica
+1341,Toechima sp. East Alligator (J.RussellNaSmith 8418),a tree,Endangered,Plantae,Magnoliopsida,Sapindaceae,Toechima,sp. East Alligator (J.RussellNaSmith 8418)
+1357,Mitrella tiwiensis,a vine,Vulnerable,Plantae,Magnoliopsida,Annonaceae,Mitrella,tiwiensis
+1358,Xylopia monosperma,a shrub,Endangered,Plantae,Magnoliopsida,Annonaceae,Xylopia,monosperma
+1375,Glyphis glyphis,Speartooth Shark,Critically Endangered,Animalia,Chondrichthyes,Carcharhinidae,Glyphis,glyphis
+1376,Glyphis garricki,"Northern River Shark, New Guinea River Shark",Endangered,Animalia,Chondrichthyes,Carcharhinidae,Glyphis,garricki
+1412,Phascogale pirata,Northern BrushNatailed Phascogale,Vulnerable,Animalia,Mammalia,Dasyuridae,Phascogale,pirata
+1413,Lucasium occultum,"YellowNasnouted Gecko, YellowNasnouted Ground Gecko",Endangered,Animalia,Reptilia,Diplodactylidae,Lucasium,occultum
+1421,Cryptoblepharus gurrmul,Arafura SnakeNaeyed Skink,Endangered,Animalia,Reptilia,Scincidae,Cryptoblepharus,gurrmul
+1423,Liopholis kintorei,"Great Desert Skink, Tjakura, Warrarna, Mulyamiji",Vulnerable,Animalia,Reptilia,Scincidae,Liopholis,kintorei
+1424,Bellatorias obiri,Arnhem Land Egernia,Endangered,Animalia,Reptilia,Scincidae,Bellatorias,obiri
+1426,Liopholis slateri slateri,"Slater's Skink, Floodplain Skink",Endangered,Animalia,Reptilia,Scincidae,Liopholis,slateri
+1446,Acanthophis hawkei,Plains Death Adder,Vulnerable,Animalia,Reptilia,Elapidae,Acanthophis,hawkei
+1456,Amytornis modestus,ThickNabilled Grasswren,Vulnerable,Animalia,Aves,Maluridae,Amytornis,modestus
+1477,Sphyrna lewini,Scalloped Hammerhead,Conservation Dependent,Animalia,Chondrichthyes,Sphyrnidae,Sphyrna,lewini
+1494,Stylidium ensatum,a triggerplant,Endangered,Plantae,Magnoliopsida,Stylidiaceae,Stylidium,ensatum
+1496,Limosa lapponica baueri,"BarNatailed Godwit (baueri), Western Alaskan BarNatailed Godwit",Vulnerable,Animalia,Aves,Scolopacidae,Limosa,lapponica
+1499,Limosa lapponica menzbieri,"Northern Siberian BarNatailed Godwit, BarNatailed Godwit (menzbieri)",Critically Endangered,Animalia,Aves,Scolopacidae,Limosa,lapponica
+1511,Hipposideros inornatus,Arnhem LeafNanosed Bat,Endangered,Animalia,Mammalia,Hipposideridae,Hipposideros,inornatus
+1527,Acacia equisetifolia,a shrub,Critically Endangered,Plantae,Magnoliopsida,Fabaceae,Acacia,equisetifolia
+1534,Petrogale concinna concinna,Nabarlek (Victoria River District),Critically Endangered,Animalia,Mammalia,Macropodidae,Petrogale,concinna
+1535,Petrogale concinna canescens,Nabarlek (Top End),Endangered,Animalia,Mammalia,Macropodidae,Petrogale,concinna
+1540,Mesembriomys gouldii gouldii,"BlackNafooted TreeNarat (Kimberley and mainland Northern Territory), Djintamoonga, Manbul",Endangered,Animalia,Mammalia,Muridae,Mesembriomys,gouldii
+1541,Mesembriomys gouldii melvillensis,BlackNafooted TreeNarat (Melville Island),Vulnerable,Animalia,Mammalia,Muridae,Mesembriomys,gouldii
+1557,Lagorchestes hirsutus Central Australian subspecies,"Mala, Rufous HareNaWallaby (Central Australia)",Endangered,Animalia,Mammalia,Macropodidae,Lagorchestes,hirsutus
