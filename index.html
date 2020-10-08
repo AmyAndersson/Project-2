@@ -15,10 +15,10 @@
         <h1>D3Times</h1>
       </div>
     </div>
-    <select id="selDataset">
 
-    </select>
-    <div class="row">
+     <select id="selDataset" onchange="optionChanged(this.value)"></select>
+
+      <div class="row">
       <div class="col-xs-12 col-md-9">
         <div id="scatter">
           <!-- We append our chart here. -->
@@ -26,5 +26,6 @@
       </div>
     </div>
     <script src="logic.js"></script>
+  
 </body>
 </html>
