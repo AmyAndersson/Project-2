@@ -26,12 +26,6 @@ def html():
     
     return render_template("test.html")
 
-# @app.route("/html", methods=['GET','POST'])
-# def html():
-#     if request.method == 'POST':
-#         return redirect(http://127.0.0.1:5000/("index")) 
-#     return render_template("test.html")
-#^this will need to return json file 
 
 if __name__ == "__main__":
     app.run(debug=True)
