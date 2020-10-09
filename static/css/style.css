@@ -215,3 +215,25 @@ header .navbar .nav-link {
 }
 
 
+/* DATA SOURCES SPECIFIC */
+
+.col-md-12 {
+  padding-top: 150px;
+}
+
+h3 {
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  padding-left: 20px;
+}
+
+p {
+  color: white;
+  font-size: 16px;
+  padding-left: 20px;
+}
+
+table {
+  width: 80%;
+}
