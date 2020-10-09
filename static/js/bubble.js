@@ -2,7 +2,7 @@
 // Create a function to populate the Bubble Chart 
 function Bubblechart() {
   
-  d3.csv("../spcs_cleaned.csv").then((data) => {
+  d3.json("/datatwo").then((data) => {
     
     // console.log(data)
 
@@ -15,15 +15,15 @@ function Bubblechart() {
       
 
     for (var i = 0; i < data.length; i++) {
-      var commonname = data[i].Common_Name;
-      var status = data[i].Threatened_Status;
+      var commonname = data[i].common_name;
+      var status = data[i].threatened_status;
       
       
 
       // console.log(status)
         
       function ACT() {
-        if (data[i].ACT === "Yes") {
+        if (data[i].act === "Yes") {
           if (status === "Endangered") {
             Endangered_count = Endangered_count + 1;
           } else if (status === "Critically Endangered") {
@@ -41,7 +41,7 @@ function Bubblechart() {
       };
 
       function NSW() {
-        if (data[i].NSW === "Yes") {
+        if (data[i].nsw === "Yes") {
           if (status === "Endangered") {
             Endangered_count = Endangered_count + 1;
           } else if (status === "Critically Endangered") {
@@ -59,7 +59,7 @@ function Bubblechart() {
       };
       
       function NT() {
-        if (data[i].NT === "Yes") {
+        if (data[i].nt === "Yes") {
           if (status === "Endangered") {
             Endangered_count = Endangered_count + 1;
           } else if (status === "Critically Endangered") {
@@ -78,7 +78,7 @@ function Bubblechart() {
       
 
       function QLD() {
-        if (data[i].QLD === "Yes") {
+        if (data[i].qld === "Yes") {
           if (status === "Endangered") {
             Endangered_count = Endangered_count + 1;
           } else if (status === "Critically Endangered") {
@@ -96,7 +96,7 @@ function Bubblechart() {
       };
 
       function SA() {
-        if (data[i].SA === "Yes") {
+        if (data[i].sa === "Yes") {
           if (status === "Endangered") {
             Endangered_count = Endangered_count + 1;
           } else if (status === "Critically Endangered") {
@@ -114,7 +114,7 @@ function Bubblechart() {
       };
 
       function TAS() {
-        if (data[i].TAS === "Yes") {
+        if (data[i].tas === "Yes") {
           if (status === "Endangered") {
             Endangered_count = Endangered_count + 1;
           } else if (status === "Critically Endangered") {
@@ -132,7 +132,7 @@ function Bubblechart() {
       };
 
       function VIC() {
-        if (data[i].VIC === "Yes") {
+        if (data[i].vic === "Yes") {
           if (status === "Endangered") {
             Endangered_count = Endangered_count + 1;
           } else if (status === "Critically Endangered") {
@@ -150,7 +150,7 @@ function Bubblechart() {
       };
 
       function WA() {
-        if (data[i].WA === "Yes") {
+        if (data[i].wa === "Yes") {
           if (status === "Endangered") {
             Endangered_count = Endangered_count + 1;
           } else if (status === "Critically Endangered") {
