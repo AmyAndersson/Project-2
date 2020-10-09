@@ -28,7 +28,7 @@ function optionChanged(selectedState) {
 
 // Create a function to populate the Bar Chart based on selected State
 function barchart(selectedState) {
-   d3.csv("data/spcs_cleaned.csv").then((data) => {
+   d3.csv("spcs_cleaned.csv").then((data) => {
       var dropdownMenu = d3.select("#selDataset");
       selectedState = dropdownMenu.node().value;
       console.log(data)
@@ -232,7 +232,7 @@ function barchart(selectedState) {
          var plotdata = [trace];
 
          // Create plot using Plotly
-         Plotly.newPlot("scatter", plotdata, layout);
+         Plotly.newPlot("bar", plotdata, layout);
 
       
    });

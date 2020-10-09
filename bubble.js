@@ -2,7 +2,7 @@
 // Create a function to populate the Bubble Chart 
 function Bubblechart() {
   
-  d3.csv("data/spcs_cleaned.csv").then((data) => {
+  d3.csv("spcs_cleaned.csv").then((data) => {
     
     // console.log(data)
 
@@ -223,7 +223,7 @@ function Bubblechart() {
        var plotdata = [trace];
 
        // Create plot using Plotly
-       Plotly.newPlot("scatter", plotdata, layout);
+       Plotly.newPlot("bubble", plotdata, layout);
 
     
    });
