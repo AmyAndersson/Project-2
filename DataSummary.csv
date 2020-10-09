@@ -1,0 +1,5 @@
+﻿Use ,File Name,Source,Data Use
+Leaflet Chloropleth Map,IBRA7_regions_26sep2015.geojson,https://data.gov.au/data/dataset/2016-soe-bio-epbc-total,2016 SoE Biodiversity Number of EPBC species in each IBRA region 
+CSV Data Cleaning,dataone.csv,https://www.environment.gov.au/sprat-public/action/report,Species Profile and Threats Database
+Plots,20200929spcs.csv,https://data.gov.au/dataset/ds-dga-ae652011-f39e-4c6c-91b8-1dc2d2dfee8f/distribution/dist-dga-c478a397-e1e9-4292-950c-e0f9ed9430c8/details?q=,Threatened Species State Lists - 29 Sept  2020
+Pink Polygons in Australia Map,CM_Zones_shapefile,https://data.gov.au/data/dataset/conservation-management-zones-of-australia,Conservation Management Zones of Australia
