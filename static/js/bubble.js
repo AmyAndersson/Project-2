@@ -2,7 +2,7 @@
 // Create a function to populate the Bubble Chart 
 function Bubblechart() {
   
-  d3.csv("spcs_cleaned.csv").then((data) => {
+  d3.csv("../spcs_cleaned.csv").then((data) => {
     
     // console.log(data)
 
@@ -207,16 +207,16 @@ function Bubblechart() {
          marker: {
            size: x_axis,
            color: x_axis,
-           sizeref: 0.1,
+           sizeref: 0.3,
            sizemode: "area",
          },
        };
 
        // Define the plot layout
        var layout = {
-         title: `Threatened status of Austalian Plants and Animals in Australia`,
-         xaxis: { title: "Count" },
-         yaxis: { title: "Threatened Status" },
+         title: `Threatened Status of Austalian Animals in Australia`,
+         xaxis: { title: "Threatened Status" },
+         yaxis: { title: "Count" },
        };
 
        // Define the data

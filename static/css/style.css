@@ -194,12 +194,24 @@ header .navbar .nav-link {
 .col-lg-6 {
   padding-top: 20px;
   padding-bottom: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px
 }
 
 .row {
   padding-bottom: 18px;
 }
 
+#bar {
+  width: 90%; 
+  /* height: 80%; */
+}
 
+#bubble {
+  width: 90%; 
+  /* height: 100%; */
+}
 
 

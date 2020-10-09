@@ -28,7 +28,7 @@ function optionChanged(selectedState) {
 
 // Create a function to populate the Bar Chart based on selected State
 function barchart(selectedState) {
-   d3.csv("spcs_cleaned.csv").then((data) => {
+   d3.csv("../spcs_cleaned.csv").then((data) => {
       var dropdownMenu = d3.select("#selDataset");
       selectedState = dropdownMenu.node().value;
       console.log(data)
@@ -223,7 +223,7 @@ function barchart(selectedState) {
 
          // Define the plot layout
          var layout = {
-            title: `Threatened status of Austalian Plants and Animals in ${selectedState}`,
+            title: `Threatened Status of Austalian Animals in ${selectedState}`,
             xaxis: { title: "Threatened Status" },
             yaxis: { title: "Count" },
          };
