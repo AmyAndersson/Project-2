@@ -15,7 +15,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 }).addTo(myMap);
 
 // Load in geojson data
-var geoData = "static/data/IBRA7_regions_26sep2015.geojson";
+var geoData = "C:/Users/bonna/OneDrive/Desktop/new copy/IBRA7_regions_26sep2015.geojson";
 
 var geojson;
 

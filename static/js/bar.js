@@ -28,7 +28,7 @@ function optionChanged(selectedState) {
 
 // Create a function to populate the Bar Chart based on selected State
 function barchart(selectedState) {
-   d3.csv("../spcs_cleaned.csv").then((data) => {
+   d3.json("/datatwo").then((data) => {
       var dropdownMenu = d3.select("#selDataset");
       selectedState = dropdownMenu.node().value;
       console.log(data)
@@ -42,14 +42,14 @@ function barchart(selectedState) {
       
 
       for (var i = 0; i < data.length; i++) {
-        var commonname = data[i].Common_Name;
-        var status = data[i].Threatened_Status;
+        var commonname = data[i].common_name;
+        var status = data[i].threatened_status;
         
          // if selectedState = data[i].ACT
 
       switch (selectedState) {
         case "NSW":
-          if (data[i].NSW === "Yes") {
+          if (data[i].nsw === "Yes") {
             if (status === "Endangered") {
               Endangered_count = Endangered_count + 1;
             } else if (status === "Critically Endangered") {
@@ -67,7 +67,7 @@ function barchart(selectedState) {
           break;
 
         case "NT":
-          if (data[i].NT === "Yes") {
+          if (data[i].nt === "Yes") {
             if (status === "Endangered") {
               Endangered_count = Endangered_count + 1;
             } else if (status === "Critically Endangered") {
@@ -85,7 +85,7 @@ function barchart(selectedState) {
           break;
 
         case "QLD":
-          if (data[i].QLD === "Yes") {
+          if (data[i].qld === "Yes") {
             if (status === "Endangered") {
               Endangered_count = Endangered_count + 1;
             } else if (status === "Critically Endangered") {
@@ -103,7 +103,7 @@ function barchart(selectedState) {
           break;
 
         case "SA":
-          if (data[i].SA === "Yes") {
+          if (data[i].sa === "Yes") {
             if (status === "Endangered") {
               Endangered_count = Endangered_count + 1;
             } else if (status === "Critically Endangered") {
@@ -121,7 +121,7 @@ function barchart(selectedState) {
           break;
 
         case "TAS":
-          if (data[i].TAS === "Yes") {
+          if (data[i].tas === "Yes") {
             if (status === "Endangered") {
               Endangered_count = Endangered_count + 1;
             } else if (status === "Critically Endangered") {
@@ -139,7 +139,7 @@ function barchart(selectedState) {
           break;
 
         case "VIC":
-          if (data[i].VIC === "Yes") {
+          if (data[i].vic === "Yes") {
             if (status === "Endangered") {
               Endangered_count = Endangered_count + 1;
             } else if (status === "Critically Endangered") {
@@ -157,7 +157,7 @@ function barchart(selectedState) {
           break;
 
         case "WA":
-          if (data[i].WA === "Yes") {
+          if (data[i].wa === "Yes") {
             if (status === "Endangered") {
               Endangered_count = Endangered_count + 1;
             } else if (status === "Critically Endangered") {
@@ -175,7 +175,7 @@ function barchart(selectedState) {
           break;
 
         default:
-          if (data[i].ACT === "Yes") {
+          if (data[i].act === "Yes") {
             if (status === "Endangered") {
               Endangered_count = Endangered_count + 1;
             } else if (status === "Critically Endangered") {
