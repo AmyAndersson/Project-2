@@ -14,7 +14,7 @@ conn=engine.connect()
 
 
 @app.route("/datatwo")
-def data():
+def data2():
     #print("ahhh")
     data2 = pd.read_sql("SELECT * FROM spcs",conn)
     #print(data2)
@@ -22,11 +22,20 @@ def data():
     #print(type(var2))
     return var2
 
-@app.route("/")
+@app.route("/index.html")
 def html():
     
     return render_template("index.html")
 
+@app.route("/dashboard.html")
+def dashboard():
+    
+    return render_template("dashboard.html")
+
+@app.route("/data.html")
+def datasources():
+    
+    return render_template("data.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
