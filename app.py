@@ -1,28 +1,31 @@
 from flask import Flask, render_template
-from flask_pymongo import PyMongo
-
+from flask import Flask, jsonify
+from sqlalchemy import create_engine
+import pandas as pd
+from config import username
+from config import password
+from config import database
 
 app = Flask(__name__)
 
-#create conection
-conn = 'mongodb://localhost:27017'
+#create connection to databse
+engine = create_engine(f"postgresql://{username}:{password}@localhost:5432/{database}")
+conn=engine.connect()
 
-# Pass connection to the pymongo instance.
-client = pymongo.MongoClient(conn)
 
-# Connect to a database. 
-datagov = client.datagovau
+@app.route("/datatwo")
+def data():
+    #print("ahhh")
+    data2 = pd.read_sql("SELECT * FROM spcs",conn)
+    #print(data2)
+    var2 = data2.to_json(orient="records")
+    #print(type(var2))
+    return var2
 
 @app.route("/")
-def index():
-    listings = mongo.db.listings.find_one()
-    return render_template("index.html", listings=listings)
-
-
-@app.route("/scrape")
-def scraper():
-    listings = mongo.db.listings
-    return redirect("/", code=302)
+def html():
+    
+    return render_template("test.html")
 
 
 if __name__ == "__main__":
