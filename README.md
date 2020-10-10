@@ -84,11 +84,11 @@ This project was created using the following:<br>
 <br>
 Our homepage: <br>
 
-![homepage](images/homepage.png)<br>
+![homepage](images/HOMEPAGE.png)<br>
 
 with our carousel.. here is a second view: <br>
 
-![homepage2](images/HOMEPAGE2.png)<br>
+![homepage2](images/homepage2.png)<br>
 
 ## Visualisations 
 
@@ -107,12 +107,12 @@ See the amount of plants and animals in Australia by threatened status!
 
 See the amount of plants and animals in Australia by threatened status! This bar chart can be filtered by state!
 
-![bar](images/bar.png)<br>
+![bar](images/Bar.png)<br>
 
  ### Bar Chart: 
 
 See the amount of plants and animals in Australia by threatened status! This chart allows you to easily see weighting of threatened status. Are there more endangered species, or extinct species?! This plot also distinguishes between plants and animals.  This radar chart can be filtered by state!
-![radar](images/Radar.png)<br>
+![radar](images/Radar.PNG)<br>
 
 
 
