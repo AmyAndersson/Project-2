@@ -47,6 +47,7 @@ Bonner: Flask App
 
 
 ## This project was created using the following:<br>
+* PostgreSQL
 * Flask
 * Mapbox
 * D3
