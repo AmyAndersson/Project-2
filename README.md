@@ -107,7 +107,7 @@ See the amount of plants and animals in Australia by threatened status!
 
 See the amount of plants and animals in Australia by threatened status! This bar chart can be filtered by state!
 
-![bar](images/Bar.png)<br>
+![bar](images/Bar.PNG)<br>
 
  ### Bar Chart: 
 
