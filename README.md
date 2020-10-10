@@ -46,7 +46,7 @@ Bonner: Flask App
 
 
 
-# Results 
+## Technology Stack: 
 
 This project was created using the following:<br>
 * Flask
@@ -79,6 +79,7 @@ The external location of our datasets are here:
 
 <hr>
 
+# Results 
 
 <br>
 
