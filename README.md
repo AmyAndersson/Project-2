@@ -17,13 +17,24 @@ Using Environmental data from Australian Government databases and websites to ma
 
 ## Methodology: 
 
-1. Create HTML and CSS files with layouts and stylings that will hold our visualisations.   
+1. Created HTML and CSS files with layouts and stylings that will hold our visualisations. This included several pages, dashboard creation and the inclusion of the picture carousel. 
 
-2. Create our SQL database for csv. 
+2. Searched and collected data from many different governmental and evironmental sources. 
 
-3. Using Flask to access database and deliver data to HTML. 
+3. Cleaned the data using Panda's, dropping any columns which had data that is not useful for visualising.
 
-4. Using Javascript to interact with our data ( via flask) and create visualisations. 
+4. Created our SQL database and imported data into our postgres database.
+
+5. Used our Flask app to connect to our database and deliver data to HTML in json format. 
+
+6. Javascript files interact with our data ( via flask) and create visualisations.
+
+7. FInally, JS is linked into our html and CSS to format the visualisation and present
+
+
+
+
+ After have loaded into our database we have used a flask api to connect to the database and read the SQL back into a pandas dataframe then return that data as a json format. We used the JSON to populate our javascript and create visualisations, this is then linked into our html and CSS to format the visualisation and present.
 
 
 ## Tasks: 
@@ -75,5 +86,8 @@ This project was created using the following:<br>
 
 Our final pages look like this: 
 
-![index](images/requirements.png) 
-![data](images/xxx.png)
+![map](images/EndangeredMap.png)<br>
+
+![index](images/bubble.png)<br>
+
+![dashboard](image/dashboard.png)<br>
