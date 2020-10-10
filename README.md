@@ -68,7 +68,7 @@ The external location of our datasets are here:
 # Results 
 
 This project was created using the following:<br>
-* Fask
+* Flask
 * Mapbox
 * D3
 * JavaScript
@@ -77,27 +77,27 @@ This project was created using the following:<br>
 * CSS
 * Leaflet
 * Owl Carousel
-* google fonts 
+* Google Fonts 
 * Animate.css
 
 
 <br>
-Our homepage: <br>
+## Our Homepage: <br>
 
-![homepage](images/HOMEPAGE.png)<br>
+![homepage](images/homepage2.png)<br>
 
 with our carousel.. here is a second view: <br>
 
-![homepage2](images/homepage2.png)<br>
+![homepage2](images/HOMEPAGE.png)<br>
 
 ## Visualisations 
 
- ### Clorepleth map: 
+### Clorepleth map: 
 See where endandered, vulnerable and critically endangered plants and animals occur across Australia.
 
 ![map](images/EndangeredMap.png)<br>
 
- ### Bubble Chart: 
+### Bubble Chart: 
 
 See the amount of plants and animals in Australia by threatened status! 
 
