@@ -109,9 +109,9 @@ See the amount of plants and animals in Australia by threatened status! This bar
 
 ![bar](images/Bar.PNG)<br>
 
- ### Bar Chart: 
+ ### Radar Chart: 
 
-See the amount of plants and animals in Australia by threatened status! This chart allows you to easily see weighting of threatened status. Are there more endangered species, or extinct species?! This plot also distinguishes between plants and animals.  This radar chart can be filtered by state!
+See the amount of plants and animals in Australia by threatened status! This chart allows you to easily see weighting of threatened status. Are there more endangered species, or extinct species?! This plot also distinguishes between plants and animals.  This radar chart can be filtered by state!<br>
 ![radar](images/Radar.PNG)<br>
 
 
