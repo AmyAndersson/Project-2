@@ -15,7 +15,6 @@ conn=engine.connect()
 
 @app.route("/datatwo")
 def data2():
-    #print("ahhh")
     data2 = pd.read_sql("SELECT * FROM spcs",conn)
     #print(data2)
     var2 = data2.to_json(orient="records")
@@ -36,6 +35,11 @@ def dashboard():
 def datasources():
     
     return render_template("data.html")
+
+@app.route("/endangered.html")
+def endangered():
+    
+    return render_template("endangered.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
