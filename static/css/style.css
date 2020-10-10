@@ -181,7 +181,7 @@ header .navbar .nav-link {
   padding-bottom: 30px;
 }
 
-/* VISUALISATION PAGE SPECIFIC */
+/* VISUALISATION SPECIFIC */
 
 .col-12 {
   padding-top: 150px;
@@ -206,12 +206,14 @@ header .navbar .nav-link {
 
 #bar {
   width: 90%; 
-  /* height: 80%; */
 }
 
 #bubble {
   width: 90%; 
-  /* height: 100%; */
+}
+
+#radar {
+  width: 90%; 
 }
 
 
@@ -237,3 +239,6 @@ p {
 table {
   width: 80%;
 }
+
+
+

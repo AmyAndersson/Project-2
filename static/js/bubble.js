@@ -2,9 +2,9 @@
 // Create a function to populate the Bubble Chart 
 function Bubblechart() {
   
-  d3.csv("../spcs_cleaned.csv").then((data) => {
+  d3.csv("static/data/spcs_cleaned.csv").then((data) => {
     
-    // console.log(data)
+    console.log(data)
 
     var Endangered_count = 0;
     var Crit_end_count = 0;
