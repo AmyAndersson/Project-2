@@ -17,7 +17,7 @@ Using Environmental data from Australian Government databases and websites to ma
 
 ## Methodology: 
 
-1. Created HTML and CSS files with layouts and stylings that will hold our visualisations. This included several pages, dashboard creation and the inclusion of the picture carousel. 
+1. Created HTML and CSS files with layouts and stylings that will hold our visualisations. This included several pages, plot and map creation and the inclusion of the picture carousel. 
 
 2. Searched and collected data from many different governmental and evironmental sources. 
 
@@ -36,15 +36,30 @@ Using Environmental data from Australian Government databases and websites to ma
 
 ## Tasks: 
 
-Bonner: Flask App 
-
 Kirstie: HTML 
-
-Conor: Map and map overlays 
 
 Amy: Visualisations
 
+Conor: Map and map overlays 
 
+Bonner: Flask App
+
+
+
+# Results 
+
+This project was created using the following:<br>
+* Flask
+* Mapbox
+* D3
+* JavaScript
+* Bootstrap
+* HTML
+* CSS
+* Leaflet
+* Owl Carousel
+* Google Fonts 
+* Animate.css
 
 
 ## Datasets: 
@@ -63,22 +78,6 @@ The external location of our datasets are here:
 
 
 <hr>
-
-
-# Results 
-
-This project was created using the following:<br>
-* Flask
-* Mapbox
-* D3
-* JavaScript
-* Bootstrap
-* HTML
-* CSS
-* Leaflet
-* Owl Carousel
-* Google Fonts 
-* Animate.css
 
 
 <br>
