@@ -53,6 +53,7 @@ This project was created using the following:<br>
 * Mapbox
 * D3
 * JavaScript
+* jQuery
 * Bootstrap
 * HTML
 * CSS
