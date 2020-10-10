@@ -46,9 +46,7 @@ Bonner: Flask App
 
 
 
-## Technology Stack: 
-
-This project was created using the following:<br>
+## This project was created using the following:<br>
 * Flask
 * Mapbox
 * D3
