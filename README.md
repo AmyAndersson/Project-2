@@ -82,7 +82,8 @@ This project was created using the following:<br>
 
 
 <br>
-## Our Homepage: <br>
+
+## Our Homepage: 
 
 ![homepage](images/homepage2.png)<br>
 
